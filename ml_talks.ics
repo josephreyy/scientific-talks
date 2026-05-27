@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Many modern biomedical methods benefit from the availability of prior knowledge about\, for example\, genes\, proteins\, or diseases. Knowledge graphs\, i.e.\, representations of prior knowledge in machine-readable graph form\, have become the quasi-standard for storing\, manipulating\, and sharing biomedical prior knowledge. In this workshop\, we will learn about knowledge representations\, knowledge graphs\, ontologies\, and data structures\, and put this knowledge to practical use with BioCypher ( https://biocypher.org/ ). The workshop will also contain a module on information fusion\, leveraging OntoWeaver ( https://ontoweaver.readthedocs.io/en/latest/ ) to combine data from different sources and join this information into one single graph. Further\, we will learn how to utilize generative AI to more generally develop our own data collection\, transformation\, and combination workflows. Registration is free and open until May 15th\, 2026: https://biocypher.org/community/2026-workshop/\nHost: Inga Ulusoy\, Scientific Software Center\nVenue: INF 205\, Mathematikon\, 5/104 (Conference Room)\nLink: https://biocypher.org/community/2026-workshop/\nDuration: 105h
-DTEND:20260619T160000Z
-LOCATION:INF 205\, Mathematikon\, 5/104 (Conference Room)
-DTSTART:20260615T070000Z
-SUMMARY:Workshop "Establishing a knowledge graph community in biomedical science"
-UID:2c60ad43-01eb-4b49-bc97-f29f8f6372b3@2c60.org
-URL:https://biocypher.org/community/2026-workshop/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
-DTEND:20260723T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
-DTSTART:20260723T073000Z
-SUMMARY:Compact course: Agentic Test-Driven Development
-UID:bb4a6e07-3351-410f-b494-78d03f481172@bb4a.org
-URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
+DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 105h
+DTEND:20260828T160000Z
+LOCATION:see website
+DTSTART:20260824T070000Z
+SUMMARY:Conference: EuCAIF
+UID:b4ea5631-ec6c-4c75-85ae-47149e602b07@b4ea.org
+URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 105h
@@ -25,35 +16,8 @@ DTEND:20260925T160000Z
 LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
 DTSTART:20260921T070000Z
 SUMMARY:AI for Science
-UID:ded9bfb5-b9eb-411b-825b-71c4a3bd4cf0@ded9.org
+UID:a134c573-76a6-4492-976c-5a02d4391ecd@a134.org
 URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Agentic AI Christian Schulz Daniel Schiller Inga Ulusoy Marc Ickler Tobias Renkert Vincent Heuveline Case studies: - Writing code faster - Optimizing your code - Hosting your own - Injecting domain knowledge - What does not work (yet) To help plan the catering\, please register for free by June 19th!\nHost: Scientific Machine Learning Organizer: Barbara Quintel\nVenue: INF 205\, Mathematikon\, 5th floor\nLink: https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao\nDuration: 1h 30m
-DTEND:20260624T160000Z
-LOCATION:INF 205\, Mathematikon\, 5th floor
-DTSTART:20260624T143000Z
-SUMMARY:Machine learning galore!
-UID:1fb74c67-88c5-4054-beee-3a5281b5bd6d@1fb7.org
-URL:https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 105h
-DTEND:20260828T160000Z
-LOCATION:see website
-DTSTART:20260824T070000Z
-SUMMARY:Conference: EuCAIF
-UID:48b750ca-c82f-43a5-93da-0e0b23562c40@48b7.org
-URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Inga Ulusoy Generative AI is emerging as a major creative force that supports humans in content creation.  Specifically trained models can support software developers with their software projects and  lead to time savings and a shift in what aspects of generating software are more important on a day-to-day basis. In this course\, we will learn how to set up and use AI tools in software development projects. Best practices in using such tools\, as well as recommendations how to use them efficiently and safely will be introduced\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11\nLink: https://www.ssc.uni-heidelberg.de/en/course-generative-ai\nDuration: 4h
-DTEND:20260528T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11
-DTSTART:20260528T070000Z
-SUMMARY:Compact course: Generative AI for writing (research) software
-UID:df87c159-b0db-491e-8cd6-d2b79d4a858a@df87.org
-URL:https://www.ssc.uni-heidelberg.de/en/course-generative-ai
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Installation und Einrichtung agentischer Systeme kombiniert mit ein paar Praxisbeispielen. Falls Sie die Installation direkt nachvollziehen wollen\, ist praktisch\, wenn Sie zu dieser Sitzung entweder einen Windows- oder Mac-Rechner bereithalten\, auf dem Sie Administratorrechte haben. Noch besser wäre ein PC mit einer aktuellen Linux-Distribution\nHost: Florian Nieser und Thomas Renkert\nVenue: Online\nLink: https://ph-heidelberg-de.zoom-x.de/my/renkert\nDuration: 1h
@@ -61,7 +25,43 @@ DTEND:20260602T163000Z
 LOCATION:Online
 DTSTART:20260602T153000Z
 SUMMARY:KI in Anwendung - Zoom-Termin zum technischen Setup von agentischen Systemen
-UID:9114a527-d273-433e-ba91-5777ce2a501d@9114.org
+UID:edc62549-0adf-48d6-82f6-7fad7a2aa32d@edc6.org
 URL:https://ph-heidelberg-de.zoom-x.de/my/renkert
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Inga Ulusoy Generative AI is emerging as a major creative force that supports humans in content creation.  Specifically trained models can support software developers with their software projects and  lead to time savings and a shift in what aspects of generating software are more important on a day-to-day basis. In this course\, we will learn how to set up and use AI tools in software development projects. Best practices in using such tools\, as well as recommendations how to use them efficiently and safely will be introduced\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11\nLink: https://www.ssc.uni-heidelberg.de/en/course-generative-ai\nDuration: 4h
+DTEND:20260528T110000Z
+LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11
+DTSTART:20260528T070000Z
+SUMMARY:Compact course: Generative AI for writing (research) software
+UID:fe7b72a1-b37d-47a1-8fcb-fce9a6eb306d@fe7b.org
+URL:https://www.ssc.uni-heidelberg.de/en/course-generative-ai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
+DTEND:20260723T110000Z
+LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
+DTSTART:20260723T073000Z
+SUMMARY:Compact course: Agentic Test-Driven Development
+UID:f25a6daa-6410-4acd-bec5-a361dab0bd3e@f25a.org
+URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Agentic AI Christian Schulz Daniel Schiller Inga Ulusoy Marc Ickler Tobias Renkert Vincent Heuveline Case studies: - Writing code faster - Optimizing your code - Hosting your own - Injecting domain knowledge - What does not work (yet) To help plan the catering\, please register for free by June 19th!\nHost: Scientific Machine Learning Organizer: Barbara Quintel\nVenue: INF 205\, Mathematikon\, 5th floor\nLink: https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao\nDuration: 1h 30m
+DTEND:20260624T160000Z
+LOCATION:INF 205\, Mathematikon\, 5th floor
+DTSTART:20260624T143000Z
+SUMMARY:Machine learning galore!
+UID:8d45fba5-a219-4b8e-8891-5deccbd6d28c@8d45.org
+URL:https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Many modern biomedical methods benefit from the availability of prior knowledge about\, for example\, genes\, proteins\, or diseases. Knowledge graphs\, i.e.\, representations of prior knowledge in machine-readable graph form\, have become the quasi-standard for storing\, manipulating\, and sharing biomedical prior knowledge. In this workshop\, we will learn about knowledge representations\, knowledge graphs\, ontologies\, and data structures\, and put this knowledge to practical use with BioCypher ( https://biocypher.org/ ). The workshop will also contain a module on information fusion\, leveraging OntoWeaver ( https://ontoweaver.readthedocs.io/en/latest/ ) to combine data from different sources and join this information into one single graph. Further\, we will learn how to utilize generative AI to more generally develop our own data collection\, transformation\, and combination workflows. Registration is free and open until May 15th\, 2026: https://biocypher.org/community/2026-workshop/\nHost: Inga Ulusoy\, Scientific Software Center\nVenue: INF 205\, Mathematikon\, 5/104 (Conference Room)\nLink: https://biocypher.org/community/2026-workshop/\nDuration: 105h
+DTEND:20260619T160000Z
+LOCATION:INF 205\, Mathematikon\, 5/104 (Conference Room)
+DTSTART:20260615T070000Z
+SUMMARY:Workshop "Establishing a knowledge graph community in biomedical science"
+UID:7f51fc91-0922-4630-a824-aff69131ddd1@7f51.org
+URL:https://biocypher.org/community/2026-workshop/
 END:VEVENT
 END:VCALENDAR
