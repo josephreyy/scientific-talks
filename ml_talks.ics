@@ -2,112 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Liam Keegan In this course we will learn how to package a Python library\, how to publish it on PyPI and on conda-forge\, as well as look at more advanced topics like building pre-compiled wheels including c++ extensions using pybind11\, and automatically publishing new releases using continuous integration and cibuildwheel\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/compact-course-python-packaging\nDuration: 3h 30m
-DTEND:20260616T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
-DTSTART:20260616T073000Z
-SUMMARY:Compact course: Python Packaging
-UID:f0ce316b-b6bc-4a4e-a507-20d1c4f7c006@f0ce.org
-URL:https://www.ssc.uni-heidelberg.de/en/compact-course-python-packaging
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Dominic Kempf Applying version control can be a game changer for a collaborative research software project. However\, even in projects that already successfully use Git\, there is often room for improvement of the employed Git workflows. This workshop explores some advanced topics that increase the participants’ repertoire of Git workflows: Bisection\, Worktrees\, Submodules\, Large File Storage and Pre-commit Hooks. Additionally\, we showcase invasive methods of modifying a Git repository via Rebase\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11\nLink: https://www.ssc.uni-heidelberg.de/en/compact-course-expert-git\nDuration: 4h
-DTEND:20260715T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11
-DTSTART:20260715T070000Z
-SUMMARY:Compact course: Expert Topics in Version Control with Git
-UID:60d552da-7be9-4fb2-abe0-c11f00a015bb@60d5.org
-URL:https://www.ssc.uni-heidelberg.de/en/compact-course-expert-git
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Dominic Kempf Applying version control can be a game changer for a collaborative research software project. However\, even in projects that already successfully use Git\, there is often room for improvement of the employed Git workflows. This workshop tries to delve into collaborative workflows using Git branches and discuss their strengths. Special emphasis is given to the resolution of merge conflicts that may be required in the process of dealing with diverging branches\nHost: Scientific Software Center\nVenue: Mathematikon\, Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104\nLink: https://www.ssc.uni-heidelberg.de/en/compact-course-intermediate-git\nDuration: 4h
-DTEND:20260708T110000Z
-LOCATION:Mathematikon\, Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104
-DTSTART:20260708T070000Z
-SUMMARY:Compact course: Intermediate Topics in Version Control with Git
-UID:cee8ed6c-a418-40d0-a652-d521deb8c38b@cee8.org
-URL:https://www.ssc.uni-heidelberg.de/en/compact-course-intermediate-git
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 105h
-DTEND:20260925T160000Z
-LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
-DTSTART:20260921T070000Z
-SUMMARY:AI for Science
-UID:82a23887-76cd-4848-abd6-f229b33a16ce@82a2.org
-URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Gábor Csányi • Director Max Planck Institute for Polymer Research I will report on our latest efforts to create universally applicable machine learning force fields using the MACE architecture. Large publicly available databases (such as OMAT and OMOL) and large scale GPU compute allow the construction of force field models that cover most of the periodic table and are suitable out of the box for exploration tasks\, and in some cases (e.g. organic molecules) for accurate production level simulations. Fine tuning material models with very little effort yields near-DFT accuracy. The latest models\, such as MACE-POLAR-1 include electrostatic interactions with some notion of self-consistency\nHost: Organizer: ELLIS\, SIMPLAIX &  IWR\nVenue: Mathematikon • Conference Room\, Room 5/104\, 5th Floor • Im Neuenheimer Feld 205\, 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/events/colloquium-gabor-csanyi-2026\nDuration: 1h
-DTEND:20260521T151500Z
-LOCATION:Mathematikon • Conference Room\, Room 5/104\, 5th Floor • Im Neuenheimer Feld 205\, 69120 Heidelberg
-DTSTART:20260521T141500Z
-SUMMARY:MACE Force Field Models for the Periodic Table
-UID:6d86a281-b5d0-4278-b199-81701841c47f@6d86.org
-URL:https://www.iwr.uni-heidelberg.de/en/events/colloquium-gabor-csanyi-2026
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Workshop\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 105h
-DTEND:20260828T160000Z
-LOCATION:see website
-DTSTART:20260824T070000Z
-SUMMARY:Conference: EuCAIF
-UID:c73d9745-aa43-424e-ba92-04f2e142df73@c73d.org
-URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Andreas Baer\, KIT Maximal performance! This used to be the goal for research software for HPC\, but sustainability is getting more and more traction and growing importance. This course targets two aspects contributing to sustainable research software for HPC clusters: Firstly\, energy and carbon optimization in the usage is outlined to raise awareness and make the participants ready for future HPC systems with energy-budget-based resource grants or efficiency rewarding queuing systems as pioneered by Japans #1 supercomputer Fugaku. Secondly\, sustainability in the development process of HPC research software is addressed\, where productivity\, code quality and carbon efficiency often go hand in hand. The course is specifically targeted to researchers using and developing HPC research software\, in all career stages\, irrespective of their usage type (e.g. physical simulations\, data analysis\, AI). It is intended as an interactive course\, allowing plenty of time for discussion and exchange on this topic\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/compact-course-sustainable-hpc\nDuration: 4h
-DTEND:20260527T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
-DTSTART:20260527T070000Z
-SUMMARY:Compact course: Sustainability in Research Software for HPC
-UID:e78b09bc-370b-42ca-a945-593ab0b7542c@e78b.org
-URL:https://www.ssc.uni-heidelberg.de/en/compact-course-sustainable-hpc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Ullrich Köthe Pretalk by Armand Rousselot starts at 1pm\nHost: Structures Cluster of Excellence\nVenue: Philosophenweg 12 gHS\nLink: https://structures.uni-heidelberg.de/jour_fixe.php\nDuration: 1h
-DTEND:20260508T123000Z
-LOCATION:Philosophenweg 12 gHS
-DTSTART:20260508T113000Z
-SUMMARY:EOFlows – a non-linear generalization of PCA
-UID:0d1a7632-95ec-42b9-a908-e3e51ef6a3ca@0d1a.org
-URL:https://structures.uni-heidelberg.de/jour_fixe.php
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Inga Ulusoy\, Dr. Harald Mack\, Generative AI is emerging as a major creative force that supports humans in content creation.  AI coding tools can support software development on many levels. In this short course\, participants will get started with using GitHub copilot in VSCode as effective coding tools\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, conference room 5/104\nLink: https://www.ssc.uni-heidelberg.de/en/getting-started-with-generative-ai-coding-tools\nDuration: 1h 30m
-DTEND:20260526T093000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, conference room 5/104
-DTSTART:20260526T080000Z
-SUMMARY:Getting started with generative AI coding tools
-UID:0002c6de-70c9-4ee7-8149-47d2bf9d299d@0002.org
-URL:https://www.ssc.uni-heidelberg.de/en/getting-started-with-generative-ai-coding-tools
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Many modern biomedical methods benefit from the availability of prior knowledge about\, for example\, genes\, proteins\, or diseases. Knowledge graphs\, i.e.\, representations of prior knowledge in machine-readable graph form\, have become the quasi-standard for storing\, manipulating\, and sharing biomedical prior knowledge. In this workshop\, we will learn about knowledge representations\, knowledge graphs\, ontologies\, and data structures\, and put this knowledge to practical use with BioCypher ( https://biocypher.org/ ). The workshop will also contain a module on information fusion\, leveraging OntoWeaver ( https://ontoweaver.readthedocs.io/en/latest/ ) to combine data from different sources and join this information into one single graph. Further\, we will learn how to utilize generative AI to more generally develop our own data collection\, transformation\, and combination workflows. Registration is free and open until May 15th\, 2026: https://biocypher.org/community/2026-workshop/\nHost: Inga Ulusoy\, Scientific Software Center\nVenue: INF 205\, Mathematikon\, 5/104 (Conference Room)\nLink: https://biocypher.org/community/2026-workshop/\nDuration: 105h
 DTEND:20260619T160000Z
 LOCATION:INF 205\, Mathematikon\, 5/104 (Conference Room)
 DTSTART:20260615T070000Z
 SUMMARY:Workshop "Establishing a knowledge graph community in biomedical science"
-UID:b2d35157-a744-4ed4-ab8f-27c40cfd212b@b2d3.org
+UID:2c60ad43-01eb-4b49-bc97-f29f8f6372b3@2c60.org
 URL:https://biocypher.org/community/2026-workshop/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Dominic Kempf Continuous Integration (CI) is one of the cornerstones of agile development processes: Before changes are included into the mainline\, a number of tests is run automatically to ensure the quality of the software. In this course\, we explain how this process is implemented on GitHub.com (GitHub Actions). After a general introduction\, participants will work on setting up Github Actions for their own projects. The SSC is available for follow-up consultation work on the CI workflows developed during this course\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\nLink: https://www.ssc.uni-heidelberg.de/en/compact-course-github-actions\nDuration: 4h
-DTEND:20260722T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205
-DTSTART:20260722T070000Z
-SUMMARY:Compact course: Continuous Integration with Github Actions
-UID:7f251bc1-fbe4-45fe-86ab-39de562da78d@7f25.org
-URL:https://www.ssc.uni-heidelberg.de/en/compact-course-github-actions
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Inga Ulusoy Generative AI is emerging as a major creative force that supports humans in content creation.  Specifically trained models can support software developers with their software projects and  lead to time savings and a shift in what aspects of generating software are more important on a day-to-day basis. In this course\, we will learn how to set up and use AI tools in software development projects. Best practices in using such tools\, as well as recommendations how to use them efficiently and safely will be introduced\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11\nLink: https://www.ssc.uni-heidelberg.de/en/course-generative-ai\nDuration: 4h
-DTEND:20260528T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11
-DTSTART:20260528T070000Z
-SUMMARY:Compact course: Generative AI for writing (research) software
-UID:d0e75a42-e8c5-440f-85f8-34138f905eb2@d0e7.org
-URL:https://www.ssc.uni-heidelberg.de/en/course-generative-ai
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
@@ -115,7 +16,52 @@ DTEND:20260723T110000Z
 LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
 DTSTART:20260723T073000Z
 SUMMARY:Compact course: Agentic Test-Driven Development
-UID:c4da8c71-20b5-41b4-a618-ac2d12fc42aa@c4da.org
+UID:bb4a6e07-3351-410f-b494-78d03f481172@bb4a.org
 URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 105h
+DTEND:20260925T160000Z
+LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
+DTSTART:20260921T070000Z
+SUMMARY:AI for Science
+UID:ded9bfb5-b9eb-411b-825b-71c4a3bd4cf0@ded9.org
+URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Agentic AI Christian Schulz Daniel Schiller Inga Ulusoy Marc Ickler Tobias Renkert Vincent Heuveline Case studies: - Writing code faster - Optimizing your code - Hosting your own - Injecting domain knowledge - What does not work (yet) To help plan the catering\, please register for free by June 19th!\nHost: Scientific Machine Learning Organizer: Barbara Quintel\nVenue: INF 205\, Mathematikon\, 5th floor\nLink: https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao\nDuration: 1h 30m
+DTEND:20260624T160000Z
+LOCATION:INF 205\, Mathematikon\, 5th floor
+DTSTART:20260624T143000Z
+SUMMARY:Machine learning galore!
+UID:1fb74c67-88c5-4054-beee-3a5281b5bd6d@1fb7.org
+URL:https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 105h
+DTEND:20260828T160000Z
+LOCATION:see website
+DTSTART:20260824T070000Z
+SUMMARY:Conference: EuCAIF
+UID:48b750ca-c82f-43a5-93da-0e0b23562c40@48b7.org
+URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Inga Ulusoy Generative AI is emerging as a major creative force that supports humans in content creation.  Specifically trained models can support software developers with their software projects and  lead to time savings and a shift in what aspects of generating software are more important on a day-to-day basis. In this course\, we will learn how to set up and use AI tools in software development projects. Best practices in using such tools\, as well as recommendations how to use them efficiently and safely will be introduced\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11\nLink: https://www.ssc.uni-heidelberg.de/en/course-generative-ai\nDuration: 4h
+DTEND:20260528T110000Z
+LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, seminar room 11
+DTSTART:20260528T070000Z
+SUMMARY:Compact course: Generative AI for writing (research) software
+UID:df87c159-b0db-491e-8cd6-d2b79d4a858a@df87.org
+URL:https://www.ssc.uni-heidelberg.de/en/course-generative-ai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Installation und Einrichtung agentischer Systeme kombiniert mit ein paar Praxisbeispielen. Falls Sie die Installation direkt nachvollziehen wollen\, ist praktisch\, wenn Sie zu dieser Sitzung entweder einen Windows- oder Mac-Rechner bereithalten\, auf dem Sie Administratorrechte haben. Noch besser wäre ein PC mit einer aktuellen Linux-Distribution\nHost: Florian Nieser und Thomas Renkert\nVenue: Online\nLink: https://ph-heidelberg-de.zoom-x.de/my/renkert\nDuration: 1h
+DTEND:20260602T163000Z
+LOCATION:Online
+DTSTART:20260602T153000Z
+SUMMARY:KI in Anwendung - Zoom-Termin zum technischen Setup von agentischen Systemen
+UID:9114a527-d273-433e-ba91-5777ce2a501d@9114.org
+URL:https://ph-heidelberg-de.zoom-x.de/my/renkert
 END:VEVENT
 END:VCALENDAR
