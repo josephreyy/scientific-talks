@@ -7,7 +7,7 @@ DTEND:20260925T160000Z
 LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
 DTSTART:20260921T070000Z
 SUMMARY:AI for Science
-UID:521255b7-5d9c-4ca4-9f07-1f27951ae128@5212.org
+UID:61afa505-7f7e-4931-ada9-ef6e86cae298@61af.org
 URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
 END:VEVENT
 BEGIN:VEVENT
@@ -16,7 +16,7 @@ DTEND:20260828T160000Z
 LOCATION:see website
 DTSTART:20260824T070000Z
 SUMMARY:Conference: EuCAIF
-UID:c601f35a-e107-4a99-b096-8f5206dfc542@c601.org
+UID:ca809ece-9872-4392-9a4d-0fc1e4c771c8@ca80.org
 URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
 END:VEVENT
 BEGIN:VEVENT
@@ -25,26 +25,8 @@ DTEND:20260619T160000Z
 LOCATION:INF 205\, Mathematikon\, 5/104 (Conference Room)
 DTSTART:20260615T070000Z
 SUMMARY:Workshop "Establishing a knowledge graph community in biomedical science"
-UID:f49089b0-0dba-4c12-999d-d809b03eddba@f490.org
+UID:9cc83188-c696-4098-860e-8742ace2673d@9cc8.org
 URL:https://biocypher.org/community/2026-workshop/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Machine Learning in Astrophysical studies The workshop's theme is the application of machine learning to solve astrophysical problems. This event will be a one-day workshop and unconference\, where we will discuss and learn from each other about applying techniques to solve very similar problems in various contexts. We hope this workshop could lead to some new collaborations or initial joint studies. We will dedicate a significant amount of time to unconference sessions and informal discussions\nHost: Tobias Buck (IWR) Morgan Fouesneau (MPIA) Nikos Gianniotis (HITS) Guillaume Guiglion (ZAH/LSW\, MPIA) Ralf Klessen (ZAH/ITA) Annalisa Pillepich (MPIA) Kai Polsterer (HITS)\nVenue: Tagungszentrum Studio Villa Bosch Schloss-Wolfsbrunnenweg 33 69118 Heidelberg\nLink: https://mpi-astronomy.github.io/ml4astro2026/\nDuration: 9h 30m
-DTEND:20260624T160000Z
-LOCATION:Tagungszentrum Studio Villa Bosch Schloss-Wolfsbrunnenweg 33 69118 Heidelberg
-DTSTART:20260624T063000Z
-SUMMARY:ML4ASTRO
-UID:3cf12e22-1c51-4301-b7ff-832631aec5df@3cf1.org
-URL:https://mpi-astronomy.github.io/ml4astro2026/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Installation und Einrichtung agentischer Systeme kombiniert mit ein paar Praxisbeispielen. Falls Sie die Installation direkt nachvollziehen wollen\, ist praktisch\, wenn Sie zu dieser Sitzung entweder einen Windows- oder Mac-Rechner bereithalten\, auf dem Sie Administratorrechte haben. Noch besser wäre ein PC mit einer aktuellen Linux-Distribution\nHost: Florian Nieser und Thomas Renkert\nVenue: Online\nLink: https://ph-heidelberg-de.zoom-x.de/my/renkert\nDuration: 1h
-DTEND:20260602T163000Z
-LOCATION:Online
-DTSTART:20260602T153000Z
-SUMMARY:KI in Anwendung - Zoom-Termin zum technischen Setup von agentischen Systemen
-UID:c12452be-4381-42cf-b013-3978b104a20f@c124.org
-URL:https://ph-heidelberg-de.zoom-x.de/my/renkert
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Real-time inference for binary neutron star mergers using machine learning. Dr. Maximilian Dax (Tübingen) Der Vortrag ist eingebunden in ein Rahmenprogramm\, bei dem alle diesjährigen Preisträgerinnen und Preisträger der Akademie Ihre ausgezeichneten Arbeiten in etwa 15 Minuten vorstellen. Auch hierzu sind Sie natürlich herzlich eingeladen. Die Teilnahme ist in Präsenz oder hybrid via Zoom möglich Anmeldung: hadw@hadw-bw.de\nHost: Heidelberger Akademie der Wissenschaften\nVenue: Vortragssaal der Heidelberger Akademie der Wissenschaften\, Karlstrasse 4\, 69117 Heidelberg\nLink: mailto:hadw@hadw-bw.de\nDuration: 1h
@@ -52,17 +34,17 @@ DTEND:20260619T143000Z
 LOCATION:Vortragssaal der Heidelberger Akademie der Wissenschaften\, Karlstrasse 4\, 69117 Heidelberg
 DTSTART:20260619T133000Z
 SUMMARY:Preisvorträge 2026 der Heidelberger Akademie der Wissenschaften
-UID:00bf72e8-236f-477b-9d84-dc0702417792@00bf.org
+UID:a895c8b1-d483-4e6d-9bb2-a06f18a937dd@a895.org
 URL:mailto:hadw@hadw-bw.de
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
-DTEND:20260723T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
-DTSTART:20260723T073000Z
-SUMMARY:Compact course: Agentic Test-Driven Development
-UID:dde116b4-175f-42fe-88ca-f0335175e953@dde1.org
-URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
+DESCRIPTION:Speaker: Machine Learning in Astrophysical studies The workshop's theme is the application of machine learning to solve astrophysical problems. This event will be a one-day workshop and unconference\, where we will discuss and learn from each other about applying techniques to solve very similar problems in various contexts. We hope this workshop could lead to some new collaborations or initial joint studies. We will dedicate a significant amount of time to unconference sessions and informal discussions\nHost: Tobias Buck (IWR) Morgan Fouesneau (MPIA) Nikos Gianniotis (HITS) Guillaume Guiglion (ZAH/LSW\, MPIA) Ralf Klessen (ZAH/ITA) Annalisa Pillepich (MPIA) Kai Polsterer (HITS)\nVenue: Tagungszentrum Studio Villa Bosch Schloss-Wolfsbrunnenweg 33 69118 Heidelberg\nLink: https://mpi-astronomy.github.io/ml4astro2026/\nDuration: 9h 30m
+DTEND:20260624T160000Z
+LOCATION:Tagungszentrum Studio Villa Bosch Schloss-Wolfsbrunnenweg 33 69118 Heidelberg
+DTSTART:20260624T063000Z
+SUMMARY:ML4ASTRO
+UID:fda3520a-bc5b-4cc7-84fc-0f24b8adbc24@fda3.org
+URL:https://mpi-astronomy.github.io/ml4astro2026/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Agentic AI Christian Schulz Daniel Schiller Inga Ulusoy Marc Ickler Tobias Renkert Vincent Heuveline Case studies: - Writing code faster - Optimizing your code - Hosting your own - Injecting domain knowledge - What does not work (yet) To help plan the catering\, please register for free by June 19th!\nHost: Scientific Machine Learning Organizer: Barbara Quintel\nVenue: INF 205\, Mathematikon\, 5th floor\nLink: https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao\nDuration: 1h 30m
@@ -70,7 +52,16 @@ DTEND:20260624T160000Z
 LOCATION:INF 205\, Mathematikon\, 5th floor
 DTSTART:20260624T143000Z
 SUMMARY:Machine learning galore!
-UID:cac95e03-b0b1-4eb3-9da9-18e089a11241@cac9.org
+UID:7e332503-c7f5-4338-9abb-0affc42ce4bc@7e33.org
 URL:https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
+DTEND:20260723T110000Z
+LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
+DTSTART:20260723T073000Z
+SUMMARY:Compact course: Agentic Test-Driven Development
+UID:45a5e0f9-4667-41da-91a6-672ac40698ca@45a5.org
+URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
 END:VEVENT
 END:VCALENDAR
