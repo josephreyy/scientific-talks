@@ -2,49 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260927
-DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 120h
-LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
-SUMMARY:AI for Science
-UID:1795b832-5bd3-4977-972e-722e4e928064@1795.org
-URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Real-time inference for binary neutron star mergers using machine learning. Dr. Maximilian Dax (Tübingen) Der Vortrag ist eingebunden in ein Rahmenprogramm\, bei dem alle diesjährigen Preisträgerinnen und Preisträger der Akademie Ihre ausgezeichneten Arbeiten in etwa 15 Minuten vorstellen. Auch hierzu sind Sie natürlich herzlich eingeladen. Die Teilnahme ist in Präsenz oder hybrid via Zoom möglich Anmeldung: hadw@hadw-bw.de\nHost: Heidelberger Akademie der Wissenschaften\nVenue: Vortragssaal der Heidelberger Akademie der Wissenschaften\, Karlstrasse 4\, 69117 Heidelberg\nLink: mailto:hadw@hadw-bw.de\nDuration: 1h
-DTEND:20260619T143000Z
-LOCATION:Vortragssaal der Heidelberger Akademie der Wissenschaften\, Karlstrasse 4\, 69117 Heidelberg
-DTSTART:20260619T133000Z
-SUMMARY:Preisvorträge 2026 der Heidelberger Akademie der Wissenschaften
-UID:6c6fda4f-6a21-49d6-b8a2-25a1a21d2d50@6c6f.org
-URL:mailto:hadw@hadw-bw.de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
-DTEND:20260723T110000Z
-LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
-DTSTART:20260723T073000Z
-SUMMARY:Compact course: Agentic Test-Driven Development
-UID:987a4a46-1dff-4a32-928f-f2c0e702644a@987a.org
-URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Rajesh Ranganath (NYU) Clinical risk scores are widely used in medical decision-making\, but evaluating alternative interventions and their timing remains challenging. Rajesh Ranganath will present*Competing Event Models (CEMs)*\, a generativeautoregressive framework for estimating intervention effects that addresses key limitations of standard transformer-based approaches. Rajeshis an associate professor at NYU's Courant Institute in Computer Science and the Center for Data Science. He is also affiliate faculty at the Department of Population Health at NYUMC. His research focuses on AI for healthcare\, generative models\, robustness and generalization\, and causal inference. Zoom participation is available for colleagues at other sites - but we strongly encourage local participants to join in person to take advantage of the opportunity for discussion and networking with the speaker. This time\, we also cannot promise optimal zoom quality: https://dkfz-de.zoom-x.de/meeting/register/6CNF36zFTDaisVMQczUHxA\nHost: AI in Life Seminar Series Team\nVenue: DKFZ TP3\, Ingrid Buchleiter Room B0.321\nLink: https://www.ai-life-delta.com/event/hd-ai-in-l-2/\nDuration: 1h
-DTEND:20260619T100000Z
-LOCATION:DKFZ TP3\, Ingrid Buchleiter Room B0.321
-DTSTART:20260619T090000Z
-SUMMARY:Clinical Risk Scores\, Causality & Competing Events with Autoregressive Transformers
-UID:0ac038d8-506c-4976-892f-a9f264575071@0ac0.org
-URL:https://www.ai-life-delta.com/event/hd-ai-in-l-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260830
-DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 120h
-LOCATION:see website
-SUMMARY:Conference: EuCAIF
-UID:6f1ae390-2673-4152-97d9-a4fe4240c0ff@6f1a.org
-URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
+DESCRIPTION:Speaker: Many modern biomedical methods benefit from the availability of prior knowledge about\, for example\, genes\, proteins\, or diseases. Knowledge graphs\, i.e.\, representations of prior knowledge in machine-readable graph form\, have become the quasi-standard for storing\, manipulating\, and sharing biomedical prior knowledge. In this workshop\, we will learn about knowledge representations\, knowledge graphs\, ontologies\, and data structures\, and put this knowledge to practical use with BioCypher ( https://biocypher.org/ ). The workshop will also contain a module on information fusion\, leveraging OntoWeaver ( https://ontoweaver.readthedocs.io/en/latest/ ) to combine data from different sources and join this information into one single graph. Further\, we will learn how to utilize generative AI to more generally develop our own data collection\, transformation\, and combination workflows. Registration is free and open until May 15th\, 2026: https://biocypher.org/community/2026-workshop/\nHost: Inga Ulusoy\, Scientific Software Center\nVenue: INF 205\, Mathematikon\, 5/104 (Conference Room)\nLink: https://biocypher.org/community/2026-workshop/\nDuration: 120h
+DTEND:20260619T220000Z
+LOCATION:INF 205\, Mathematikon\, 5/104 (Conference Room)
+DTSTART:20260614T220000Z
+SUMMARY:Workshop "Establishing a knowledge graph community in biomedical science"
+UID:9867205f-def1-4bbf-8a48-1966006a12d5@9867.org
+URL:https://biocypher.org/community/2026-workshop/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Agentic AI Christian Schulz Daniel Schiller Inga Ulusoy Marc Ickler Tobias Renkert Vincent Heuveline Case studies: - Writing code faster - Optimizing your code - Hosting your own - Injecting domain knowledge - What does not work (yet) To help plan the catering\, please register for free by June 19th!\nHost: Scientific Machine Learning Organizer: Barbara Quintel\nVenue: INF 205\, Mathematikon\, 5th floor\nLink: https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao\nDuration: 1h 30m
@@ -52,17 +16,26 @@ DTEND:20260624T160000Z
 LOCATION:INF 205\, Mathematikon\, 5th floor
 DTSTART:20260624T143000Z
 SUMMARY:Machine learning galore!
-UID:0d3d8009-0025-460b-befb-f5764ca0a3c4@0d3d.org
+UID:c53ebebb-3d74-4a44-8749-bd439e7d57f3@c53e.org
 URL:https://terminplaner4.dfn.de/5Dd4RZ3LtrUFh6ao
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260621
-DESCRIPTION:Speaker: Many modern biomedical methods benefit from the availability of prior knowledge about\, for example\, genes\, proteins\, or diseases. Knowledge graphs\, i.e.\, representations of prior knowledge in machine-readable graph form\, have become the quasi-standard for storing\, manipulating\, and sharing biomedical prior knowledge. In this workshop\, we will learn about knowledge representations\, knowledge graphs\, ontologies\, and data structures\, and put this knowledge to practical use with BioCypher ( https://biocypher.org/ ). The workshop will also contain a module on information fusion\, leveraging OntoWeaver ( https://ontoweaver.readthedocs.io/en/latest/ ) to combine data from different sources and join this information into one single graph. Further\, we will learn how to utilize generative AI to more generally develop our own data collection\, transformation\, and combination workflows. Registration is free and open until May 15th\, 2026: https://biocypher.org/community/2026-workshop/\nHost: Inga Ulusoy\, Scientific Software Center\nVenue: INF 205\, Mathematikon\, 5/104 (Conference Room)\nLink: https://biocypher.org/community/2026-workshop/\nDuration: 120h
-LOCATION:INF 205\, Mathematikon\, 5/104 (Conference Room)
-SUMMARY:Workshop "Establishing a knowledge graph community in biomedical science"
-UID:f21d6416-5acf-4b48-bab0-712606d8c44e@f21d.org
-URL:https://biocypher.org/community/2026-workshop/
+DESCRIPTION:Speaker: Rajesh Ranganath (NYU) Clinical risk scores are widely used in medical decision-making\, but evaluating alternative interventions and their timing remains challenging. Rajesh Ranganath will present*Competing Event Models (CEMs)*\, a generativeautoregressive framework for estimating intervention effects that addresses key limitations of standard transformer-based approaches. Rajeshis an associate professor at NYU's Courant Institute in Computer Science and the Center for Data Science. He is also affiliate faculty at the Department of Population Health at NYUMC. His research focuses on AI for healthcare\, generative models\, robustness and generalization\, and causal inference. Zoom participation is available for colleagues at other sites - but we strongly encourage local participants to join in person to take advantage of the opportunity for discussion and networking with the speaker. This time\, we also cannot promise optimal zoom quality: https://dkfz-de.zoom-x.de/meeting/register/6CNF36zFTDaisVMQczUHxA\nHost: AI in Life Seminar Series Team\nVenue: DKFZ TP3\, Ingrid Buchleiter Room B0.321\nLink: https://www.ai-life-delta.com/event/hd-ai-in-l-2/\nDuration: 1h
+DTEND:20260619T100000Z
+LOCATION:DKFZ TP3\, Ingrid Buchleiter Room B0.321
+DTSTART:20260619T090000Z
+SUMMARY:Clinical Risk Scores\, Causality & Competing Events with Autoregressive Transformers
+UID:0114957c-ef7c-4973-a018-8aa42ae518ad@0114.org
+URL:https://www.ai-life-delta.com/event/hd-ai-in-l-2/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Real-time inference for binary neutron star mergers using machine learning. Dr. Maximilian Dax (Tübingen) Der Vortrag ist eingebunden in ein Rahmenprogramm\, bei dem alle diesjährigen Preisträgerinnen und Preisträger der Akademie Ihre ausgezeichneten Arbeiten in etwa 15 Minuten vorstellen. Auch hierzu sind Sie natürlich herzlich eingeladen. Die Teilnahme ist in Präsenz oder hybrid via Zoom möglich Anmeldung: hadw@hadw-bw.de\nHost: Heidelberger Akademie der Wissenschaften\nVenue: Vortragssaal der Heidelberger Akademie der Wissenschaften\, Karlstrasse 4\, 69117 Heidelberg\nLink: mailto:hadw@hadw-bw.de\nDuration: 1h
+DTEND:20260619T143000Z
+LOCATION:Vortragssaal der Heidelberger Akademie der Wissenschaften\, Karlstrasse 4\, 69117 Heidelberg
+DTSTART:20260619T133000Z
+SUMMARY:Preisvorträge 2026 der Heidelberger Akademie der Wissenschaften
+UID:35513514-83c6-412e-839d-e0a203ddd3b4@3551.org
+URL:mailto:hadw@hadw-bw.de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Machine Learning in Astrophysical studies The workshop's theme is the application of machine learning to solve astrophysical problems. This event will be a one-day workshop and unconference\, where we will discuss and learn from each other about applying techniques to solve very similar problems in various contexts. We hope this workshop could lead to some new collaborations or initial joint studies. We will dedicate a significant amount of time to unconference sessions and informal discussions\nHost: Tobias Buck (IWR) Morgan Fouesneau (MPIA) Nikos Gianniotis (HITS) Guillaume Guiglion (ZAH/LSW\, MPIA) Ralf Klessen (ZAH/ITA) Annalisa Pillepich (MPIA) Kai Polsterer (HITS)\nVenue: Tagungszentrum Studio Villa Bosch Schloss-Wolfsbrunnenweg 33 69118 Heidelberg\nLink: https://mpi-astronomy.github.io/ml4astro2026/\nDuration: 9h 30m
@@ -70,7 +43,34 @@ DTEND:20260624T160000Z
 LOCATION:Tagungszentrum Studio Villa Bosch Schloss-Wolfsbrunnenweg 33 69118 Heidelberg
 DTSTART:20260624T063000Z
 SUMMARY:ML4ASTRO
-UID:e98e6fe8-81a9-48e2-b3f6-a19645483d34@e98e.org
+UID:7b28f2d0-d776-460e-a4db-813017b5e15a@7b28.org
 URL:https://mpi-astronomy.github.io/ml4astro2026/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: IWR School 2026  The summer school is designed for PhD students who want to leverage state-of-the-art AI in their research. Applicants may come from any scientific discipline\, including physics\, biology\, medicine\, neuroscience\, and climate science. The school offers a comprehensive overview of key topics in Artificial Intelligence and Machine Learning\, including Generative AI\, Explainability\, Simulation-based Inference\, Agentic AI\, Robustness and Validation of AI Methods\, Vision-Language Models\, Self-Supervised Learning\, Knowledge Integration\, and Causality. In addition to expert lectures\, the program features hands-on sessions and best-practice sessions focused on how to use the latest AI tools in research. Participants are expected to have a solid understanding of the core concepts of machine learning\nHost: Scientific Organizer: Carsten Rother Ulrich Köthe Co-Organizer: Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA)\nVenue: Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg\nLink: https://www.iwr.uni-heidelberg.de/en/iwr-school-2026\nDuration: 120h
+DTEND:20260925T220000Z
+LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
+DTSTART:20260920T220000Z
+SUMMARY:AI for Science
+UID:3dcdb9b2-3cd8-49da-80a8-714e4552ebb6@3dcd.org
+URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
+DTEND:20260723T110000Z
+LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
+DTSTART:20260723T073000Z
+SUMMARY:Compact course: Agentic Test-Driven Development
+UID:5857fe97-dd70-4508-8fa8-2d248dd58382@5857.org
+URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 120h
+DTEND:20260828T220000Z
+LOCATION:see website
+DTSTART:20260823T220000Z
+SUMMARY:Conference: EuCAIF
+UID:fe3f6eda-75bb-43b2-9b4e-6603b81a0f99@fe3f.org
+URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
 END:VEVENT
 END:VCALENDAR
