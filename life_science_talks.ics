@@ -2,46 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Volker Heussler (Bern)\nVenue: CIID\, SR 003/004\nDuration: 1h
-DTEND:20260707T161500Z
-LOCATION:CIID\, SR 003/004
-DTSTART:20260707T151500Z
-SUMMARY:Parasitology Seminar: Non-Canonical Autophagy at the Host–Parasite Interface: A Decade of Insights into Plasmodium Liver Stage Survival Strategies
-UID:f9465255-1fae-4c72-b5a5-c20394b05f93@f946.org
+DESCRIPTION:Speaker: Maïwen Caudron-Herger (DKFZ)\nVenue: Bioquant\, SR41\nLink: https://www.bioquant.uni-heidelberg.de/index.php/events/cf251808\nDuration: 1h
+DTEND:20260714T150000Z
+LOCATION:Bioquant\, SR41
+DTSTART:20260714T140000Z
+SUMMARY:Bioquant Seminar: From data science to discovery: RNA–protein networks in unexpected places
+UID:d305050a-bfed-4bdd-935b-f13fb015bf28@d305.org
+URL:https://www.bioquant.uni-heidelberg.de/index.php/events/cf251808
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Ayelet Erez (Weizmann Institute)\nVenue: DKFZ \, Main Auditorium\nDuration: 1h
-DTEND:20260702T100000Z
-LOCATION:DKFZ \, Main Auditorium
-DTSTART:20260702T090000Z
-SUMMARY:DKFZ Distinguished Lecturer Seminar Series: Deciphering tumor-host crosstalk to improve cancer diagnosis and therapy
-UID:8deced4a-5bbb-4db5-a172-7fd66b6f2611@8dec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Jorge Batista da Rocha (EMBL-EBI)\, Bilal El Houdaigui (EMBL-EBI)\, Daniel Poppleton (EMBL-EBI)\nVenue: Online\nLink: https://embl-org.zoom.us/webinar/register/WN_an0-qBQVQfqv7XWY2ohCww#/registration\nDuration: 1h
-DTEND:20260708T143000Z
-LOCATION:Online
-DTSTART:20260708T133000Z
-SUMMARY:EMBL Webinar: Programmatic access to new Ensembl services and data
-UID:7576c51a-e0bc-48ff-be68-0d41d58da459@7576.org
-URL:https://embl-org.zoom.us/webinar/register/WN_an0-qBQVQfqv7XWY2ohCww#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Yunus Emre Demiray (Department of Genetics and Molecular Biology\, Otto-von-Guericke University\, Magdeburg) ​\nVenue: INF 328\, SR25\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
-DTEND:20260715T120000Z
-LOCATION:INF 328\, SR25
-DTSTART:20260715T110000Z
-SUMMARY:IZN Lecture: Impact of early life stress on hippocampal engrams and molecular signatures
-UID:8fcee751-4622-439d-aab1-7c45a261a199@8fce.org
-URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Martin Pačesa (Institute of Pharmacology\, University of Zurich)\nVenue: MPI for Medical Research\, Seminar Room A/B\nDuration: 1h
-DTEND:20260717T090000Z
-LOCATION:MPI for Medical Research\, Seminar Room A/B
-DTSTART:20260717T080000Z
-SUMMARY:Rudolf Mößbauer Colloquium: Accurate protein binder design using BindCraft
-UID:d0a6806f-80ab-415e-b53e-ef32b4c8f78f@d0a6.org
+DESCRIPTION:Speaker: Ramona Weber (Institute for Regenerative Medicine\, University of Zurich)\, Miriam Linsenmeier (Dept. of Biochemistry & Biophysics\, Perelman School of Medicine at The University of Pennsylvania\, Philadelphia)\, Micaela Boiero Sanders (Max Planck Institute of Molecular Physiology\, Dortmund)\, Jonathan Bohlen (Gene Center\, Dept. of Biochemistry\, LMU\, München)\, Jamie Yam Auxillos (Dept. of Biology & BRIC\, University of Copenhagen)\nVenue: BZH\, INF 328\, SR 25\, ground floor\nDuration: 2h 45m
+DTEND:20260716T103000Z
+LOCATION:BZH\, INF 328\, SR 25\, ground floor
+DTSTART:20260716T074500Z
+SUMMARY:ZMBH Symposium on Advances in Molecular Biology: Mechanistic and functional dissection of ribosome loading modes in post-transcriptional gene regulation\; Biomolecular assemblies: Cellular organization\, (dys-)regulation and neurodegeneration\; Structural insights into actin filament regulation\; Molecular genetics of mRNA translation and RNA biology\; Engineering mammalian systems to uncover tissue dynamics in disease and regeneration
+UID:4cef2192-4f19-4bda-92e3-f7a072c11b37@4cef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Sebastian Funk (London School of Hygiene & Tropical Medicine)\nVenue: Studio Villa Bosch\, Schloss-Wolfsbrunnenweg 33\nLink: https://kta-email.zoom.us/meeting/register/lTQWXKafSF2dIR24Hva00w#/registration\nDuration: 1h
@@ -49,126 +24,25 @@ DTEND:20260720T120000Z
 LOCATION:Studio Villa Bosch\, Schloss-Wolfsbrunnenweg 33
 DTSTART:20260720T110000Z
 SUMMARY:HITS Colloquium: Predicting the course of an epidemic: models\, data\, and their limits
-UID:e59af46c-8332-47be-b010-a7f317bfb440@e59a.org
+UID:cdfc536b-3cdc-42bf-8f78-44c6f505b845@cdfc.org
 URL:https://kta-email.zoom.us/meeting/register/lTQWXKafSF2dIR24Hva00w#/registration
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Julia Carolin Stingl (Med. Klinik UKHD\, Dept. für Klinische Pharmakologie)\, Collen Masimirembwa (University of the Witwatersrand\, South Africa)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
-DTEND:20260715T153000Z
-LOCATION:INF 440\, HS 272
-DTSTART:20260715T143000Z
-SUMMARY:Colloquium of the Institute of Human Genetics: Genomic Diversity in Africa: Implications for Pharmacogenomics in a global health perspective
-UID:d384ae2a-684b-49f6-a0d0-ea94f25865dc@d384.org
-URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Peter Huber (DKFZ)\nVenue: DKFZ Lecture Hall\nDuration: 1h
-DTEND:20260727T150000Z
-LOCATION:DKFZ Lecture Hall
-DTSTART:20260727T140000Z
-SUMMARY:SCIENCE@DKFZ: Desired and adverse effects of cancer radiotherapy
-UID:65cacf17-da1b-47d7-b576-d7c5fa3793a4@65ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Gabriel Miltenberger-Miltényi (Laboratório de Genética\, Faculdade de Medicina\, Universidade de Lisboa\; MVZ genetikum\, München)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
-DTEND:20260803T153000Z
-LOCATION:INF 440\, HS 272
-DTSTART:20260803T143000Z
-SUMMARY:Colloquium of the Institute of Human Genetics: Genes\, Lipids and Neurologic Diseases: New Insights into Biomarkers and Pathophysiology
-UID:eba681e5-e5bd-4e08-bd78-9f004d0c573c@eba6.org
-URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Brian Huntly (University of Cambridge)\nVenue: Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg\nDuration: 1h
-DTEND:20260727T150000Z
-LOCATION:Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg
-DTSTART:20260727T140000Z
-SUMMARY:CRC 1709: TBA
-UID:fbbcfafb-d76f-4112-b2fb-8d36e36c2a21@fbbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Maïwen Caudron-Herger (DKFZ)\nVenue: Bioquant\, SR41\nLink: https://www.bioquant.uni-heidelberg.de/index.php/events/cf251808\nDuration: 1h
-DTEND:20260714T150000Z
-LOCATION:Bioquant\, SR41
-DTSTART:20260714T140000Z
-SUMMARY:Bioquant Seminar: From data science to discovery: RNA–protein networks in unexpected places
-UID:d787fbb3-548e-463d-833b-c7642691da28@d787.org
-URL:https://www.bioquant.uni-heidelberg.de/index.php/events/cf251808
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Philipp Kellmeyer\, Sivam Suchak                                   (School of Business Informatics and Mathematics\, Universität Mannheim)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
-DTEND:20261216T163000Z
-LOCATION:INF 440\, HS 272
-DTSTART:20261216T153000Z
-SUMMARY:Colloquium of the Institute of Human Genetics: Hi-C Analysis of Epigenetic Memory in Diet-Induced Obesity
-UID:1381357d-0777-4486-9e38-f7bf34f54a6b@1381.org
-URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Peter Albers (DKFZ)\nVenue: Online\nLink: https://indico.dkfz.de/event/380/\nDuration: 1h
-DTEND:20260702T080000Z
+DESCRIPTION:Speaker: Jürgen Debus (DKFZ)\nVenue: Online\nLink: https://indico.dkfz.de/event/380/\nDuration: 1h
+DTEND:20260723T080000Z
 LOCATION:Online
-DTSTART:20260702T070000Z
-SUMMARY:Progress in Cancer Research Lecture Series: Prostate Cancer Screening
-UID:10b4cd04-5d47-484c-b93e-d6eb350e3193@10b4.org
+DTSTART:20260723T070000Z
+SUMMARY:Progress in Cancer Research Lecture Series: Precise And Personalized: Advances In Radiation Oncology
+UID:22ef29cd-6e05-4fe0-b461-38d0f4e9caac@22ef.org
 URL:https://indico.dkfz.de/event/380/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Milena Schumacher (EPFL Lausanne)\nVenue: INF 328\, Ground Floor\, SR 25\nDuration: 1h
-DTEND:20260721T111500Z
-LOCATION:INF 328\, Ground Floor\, SR 25
-DTSTART:20260721T101500Z
-SUMMARY:BZH - ZMBH Guest Lecture: More than fat - Tracking the secret life of lipids
-UID:75c86423-e745-46b9-a341-88e5f05f0055@75c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Isaac Jandalala (EMBL-EB)\, Philippa Muston (EMBL-EBI)\nLink: https://embl-org.zoom.us/webinar/register/WN_LJ9IU8IOTTCiS9KYqUzTkA#/registration\nDuration: 1h
-DTEND:20260701T143000Z
-DTSTART:20260701T133000Z
-SUMMARY:EMBL Webinar: Transitioning to the new Ensembl platform for genome data and annotation
-UID:957a9e24-018c-4ff4-8369-e2300609f2ec@957a.org
-URL:https://embl-org.zoom.us/webinar/register/WN_LJ9IU8IOTTCiS9KYqUzTkA#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Ramona Weber (Institute for Regenerative Medicine\, University of Zurich)\, Miriam Linsenmeier (Dept. of Biochemistry & Biophysics\, Perelman School of Medicine at The University of Pennsylvania\, Philadelphia)\, Micaela Boiero Sanders (Max Planck Institute of Molecular Physiology\, Dortmund)\, Jonathan Bohlen (Gene Center\, Dept. of Biochemistry\, LMU\, München)\, Jamie Yam Auxillos (Dept. of Biology & BRIC\, University of Copenhagen)\nVenue: BZH\, INF 328\, SR 25\, ground floor\nDuration: 2h 45m
-DTEND:20260716T113000Z
-LOCATION:BZH\, INF 328\, SR 25\, ground floor
-DTSTART:20260716T084500Z
-SUMMARY:ZMBH Symposium on Advances in Molecular Biology: Mechanistic and functional dissection of ribosome loading modes in post-transcriptional gene regulation\; Biomolecular assemblies: Cellular organization\, (dys-)regulation and neurodegeneration\; Structural insights into actin filament regulation\; Molecular genetics of mRNA translation and RNA biology\; Engineering mammalian systems to uncover tissue dynamics in disease and regeneration
-UID:8304387e-6f38-44ae-a6dc-5d6b9edccd89@8304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Shirin Bahmanyar (Yale University)\nVenue: INF 328\, Ground Floor\, SR 25\nDuration: 1h
-DTEND:20260701T130000Z
-LOCATION:INF 328\, Ground Floor\, SR 25
-DTSTART:20260701T120000Z
-SUMMARY:BZH Guest Lecture: Exploring membrane landscapes
-UID:ab412774-d255-4313-b1e9-4349d815cce4@ab41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Florian Steger (Institut für Geschichte\, Theorie und Ethik der Medizin)\nVenue: Marsilius-Kolleg\nDuration: 7h 30m
-DTEND:20260716T153000Z
+DESCRIPTION:Speaker: Florian Steger (Institut für Geschichte\, Theorie und Ethik der Medizin)\nVenue: Marsilius-Kolleg\nDuration: 19h 30m
+DTEND:20260717T153000Z
 LOCATION:Marsilius-Kolleg
-DTSTART:20260716T080000Z
+DTSTART:20260716T200000Z
 SUMMARY:YMF-Symposium: Science (in) crises? The Role of Science in Society: past\, present\, and future
-UID:d1f2c5bf-0183-42be-8b64-f393fbe349c1@d1f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Florian Steger (Institut für Geschichte\, Theorie und Ethik der Medizin)\nVenue: Marsilius-Kolleg\nDuration: 1h
-DTEND:20260713T150000Z
-LOCATION:Marsilius-Kolleg
-DTSTART:20260713T140000Z
-SUMMARY:Marsilius-Kolleg Vortrag: Zwischen Ethos und Macht. Politisierte Medizin am Beispiel der DDR
-UID:6beed79c-d22d-419b-a688-6e5e0429b945@6bee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Thomas Rückle (Head of Research Europe\, BioMed X)\, Mark Johnston (BioMed X USA)\, Deborah Ferguson (Scientific Partnerships & Engagement\, Biogen)\, Edward Plowey (Translational Neuropathology\, Biogen)\, Nicholas Gallo (Biogen)\nVenue: Online\nLink: https://bmedx.com/news-events/our-events/info-session-neural-circuit-regulation-of-immune-function-015146/\nDuration: 1h
-DTEND:20260720T201500Z
-LOCATION:Online
-DTSTART:20260720T191500Z
-SUMMARY:BioMed X Info Session: Neural Circuit Regulation of Immune Function
-UID:9c88a3eb-23e6-4cda-94ee-13cf107c9b94@9c88.org
-URL:https://bmedx.com/news-events/our-events/info-session-neural-circuit-regulation-of-immune-function-015146/
+UID:1acdebca-591c-4575-8e3d-c1b41301d049@1acd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Zihong Zhang (Interdisciplinary Center for Neurosciences)\, Merve Akan (Zentralinstitut für Seelische Gesundheit in Mannheim)\nVenue: INF328\, SR25\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
@@ -176,26 +50,17 @@ DTEND:20260722T120000Z
 LOCATION:INF328\, SR25
 DTSTART:20260722T110000Z
 SUMMARY:IZN Seminar: Roles of the NMDAR/TRPM4 complex in neuropathic pain\; Ibogaine rescues alcohol addiction-induced social deficit
-UID:7f328d08-4ae1-429f-8371-bf7076c93cc4@7f32.org
+UID:b9cd409b-23ea-401e-b204-7e808aa46039@b9cd.org
 URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Matias Wagner (Institut für Humangenetik\, Klinikum der Technischen Universität München)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
-DTEND:20260729T153000Z
-LOCATION:INF 440\, HS 272
-DTSTART:20260729T143000Z
-SUMMARY:Colloquium of the Institute of Human Genetics: n-of-1 ASO treatments for neurogenetic disorders - preclinial conceps and lessons   learned
-UID:9595d35f-09b6-4580-8b94-48128c82b69a@9595.org
-URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Holger Sültmann (DKFZ)\nVenue: Online\nLink: https://indico.dkfz.de/event/380/\nDuration: 1h
-DTEND:20260716T080000Z
+DESCRIPTION:Speaker: Thomas Rückle (Head of Research Europe\, BioMed X)\, Mark Johnston (BioMed X USA)\, Deborah Ferguson (Scientific Partnerships & Engagement\, Biogen)\, Edward Plowey (Translational Neuropathology\, Biogen)\, Nicholas Gallo (Biogen)\nVenue: Online\nLink: https://bmedx.com/news-events/our-events/info-session-neural-circuit-regulation-of-immune-function-015146/\nDuration: 1h
+DTEND:20260720T201500Z
 LOCATION:Online
-DTSTART:20260716T070000Z
-SUMMARY:Progress in Cancer Research Lecture Series : Liquid Biopsy: Non-Invasive Monitoring And Early Detection Of Cancer
-UID:d88b0c5c-c821-4064-b018-ab9d20acf434@d88b.org
-URL:https://indico.dkfz.de/event/380/
+DTSTART:20260720T191500Z
+SUMMARY:BioMed X Info Session: Neural Circuit Regulation of Immune Function
+UID:c8ca7bec-4ca9-4ea4-8594-65f9928dbf36@c8ca.org
+URL:https://bmedx.com/news-events/our-events/info-session-neural-circuit-regulation-of-immune-function-015146/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Venue: Audimax\nLink: uni-heidelberg.de/en/joint-symposium-heidelberg-university-technical-university-mannheim\nDuration: 9h
@@ -203,7 +68,7 @@ DTEND:20260713T160000Z
 LOCATION:Audimax
 DTSTART:20260713T070000Z
 SUMMARY:Joint Symposium Medicine & Life Sciences Meet Technology\, Engineering & Applied Research: The symposium will explore synergies and common interests across the following research areas: Organoids\, Live Imaging\, Mass Spectrometry (MS) and Optical Spectroscopy Technologies\, Biotechnology & Microbiology\, Computational & AI Approaches in Medicine and the Life Sciences \, Automation in Medicine and the Life Sciences
-UID:b1661e95-27c1-4ffc-87f3-fc0481764b4e@b166.org
+UID:ef865bf5-ff39-4c17-9d29-5e1b8280c030@ef86.org
 URL:uni-heidelberg.de/en/joint-symposium-heidelberg-university-technical-university-mannheim
 END:VEVENT
 BEGIN:VEVENT
@@ -212,31 +77,7 @@ DTEND:20260711T150000Z
 LOCATION:HITS\, Schloss-Wolfsbrunnenweg 35
 DTSTART:20260711T090000Z
 SUMMARY:Open Day at HITS: Lectures\, interactive stations\, garden tour
-UID:70668479-440e-4f59-8c98-3d87ca045653@7066.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Marylyn M. Addo (University Medical Center Hamburg-Eppendorf (UKE))\nVenue: BioQuant Lecture Hall SR41\nDuration: 1h
-DTEND:20260825T140000Z
-LOCATION:BioQuant Lecture Hall SR41
-DTSTART:20260825T130000Z
-SUMMARY:BioQuant Seminar: TBA
-UID:13e0d35e-1cf0-4098-8fd0-8f1275459986@13e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Eglantine Heude (IGFL de Lyon)\nVenue: INF 230\, SR 0.005\nDuration: 1h
-DTEND:20260716T140000Z
-LOCATION:INF 230\, SR 0.005
-DTSTART:20260716T130000Z
-SUMMARY:COS Seminar Series
-UID:a4fad54d-6fd2-4a4b-9675-efa18d4a2c3b@a4fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Mallika Singh (Revolution Medicine)\nVenue: DKFZ\, Main Auditorium\nDuration: 1h
-DTEND:20260831T120000Z
-LOCATION:DKFZ\, Main Auditorium
-DTSTART:20260831T110000Z
-SUMMARY:Distinguished Lecturer Seminar Series: Targeting the Oncogenic State of RAS with Tri-Complex Inhibitors
-UID:36c06926-861f-4630-aa66-7cfcf31d4fa2@36c0.org
+UID:4fc41467-576b-4b42-bdf6-4a6c72bd9a6c@4fc4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Fernando Gonzalez Urquin (University of Mainz)\, Natasha Karp (AstraZeneca UK)\nVenue: Online\nLink: https://dkfz-de.zoom-x.de/meeting/register/zOaJ6Ya2TGGhtBB5AGw8cQ\nDuration: 1h
@@ -244,25 +85,125 @@ DTEND:20260720T120000Z
 LOCATION:Online
 DTSTART:20260720T110000Z
 SUMMARY:DKFZ-EU-SABV COST Action lecture series: Sex Differences in Preclinical Study Design:  It Starts with a Team Talk: Making Preclinical Science Sex‑Inclusive\; The path to inclusive research: The Sex Inclusive Research Framework
-UID:b1e3d1e3-c9f3-4a09-b8f5-8e35695c2b3d@b1e3.org
+UID:3b76c220-4f3d-4b06-a181-7e7cfc566ce9@3b76.org
 URL:https://dkfz-de.zoom-x.de/meeting/register/zOaJ6Ya2TGGhtBB5AGw8cQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Benedikt Brors (DKFZ)\nVenue: Online\nLink: https://indico.dkfz.de/event/380/\nDuration: 1h
-DTEND:20260709T080000Z
+DESCRIPTION:Speaker: Brian Huntly (University of Cambridge)\nVenue: Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg\nDuration: 1h
+DTEND:20260727T150000Z
+LOCATION:Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg
+DTSTART:20260727T140000Z
+SUMMARY:CRC 1709: TBA
+UID:10f48bb2-8003-4a04-b895-262385a69e20@10f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Gabriel Miltenberger-Miltényi (Laboratório de Genética\, Faculdade de Medicina\, Universidade de Lisboa\; MVZ genetikum\, München)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
+DTEND:20260803T153000Z
+LOCATION:INF 440\, HS 272
+DTSTART:20260803T143000Z
+SUMMARY:Colloquium of the Institute of Human Genetics: Genes\, Lipids and Neurologic Diseases: New Insights into Biomarkers and Pathophysiology
+UID:d556c0e0-e9c8-4f93-bf70-027224932fa0@d556.org
+URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Eglantine Heude (IGFL de Lyon)\nVenue: INF 230\, SR 0.005\nDuration: 1h
+DTEND:20260716T140000Z
+LOCATION:INF 230\, SR 0.005
+DTSTART:20260716T130000Z
+SUMMARY:COS Seminar Series
+UID:68d0b97f-b5af-4df2-bcca-ec1066f8739c@68d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Holger Sültmann (DKFZ)\nVenue: Online\nLink: https://indico.dkfz.de/event/380/\nDuration: 1h
+DTEND:20260716T080000Z
 LOCATION:Online
-DTSTART:20260709T070000Z
-SUMMARY:Progress in Cancer Research Lecture Series: What Can We Learn From Cancer Genome And Transcriptome Data?
-UID:47fcb9b4-0356-490d-880f-e291e8c946ab@47fc.org
+DTSTART:20260716T070000Z
+SUMMARY:Progress in Cancer Research Lecture Series : Liquid Biopsy: Non-Invasive Monitoring And Early Detection Of Cancer
+UID:08082712-bea5-4c3f-bba2-73724be01d44@0808.org
 URL:https://indico.dkfz.de/event/380/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Jürgen Debus (DKFZ)\nVenue: Online\nLink: https://indico.dkfz.de/event/380/\nDuration: 1h
-DTEND:20260723T080000Z
-LOCATION:Online
-DTSTART:20260723T070000Z
-SUMMARY:Progress in Cancer Research Lecture Series: Precise And Personalized: Advances In Radiation Oncology
-UID:0b400e1e-13b1-4ca3-82bb-772edff9fd76@0b40.org
-URL:https://indico.dkfz.de/event/380/
+DESCRIPTION:Speaker: Florian Steger (Institut für Geschichte\, Theorie und Ethik der Medizin)\nVenue: Marsilius-Kolleg\nDuration: 1h
+DTEND:20260713T150000Z
+LOCATION:Marsilius-Kolleg
+DTSTART:20260713T140000Z
+SUMMARY:Marsilius-Kolleg Vortrag: Zwischen Ethos und Macht. Politisierte Medizin am Beispiel der DDR
+UID:f38792ee-ea8b-41f7-9669-735d9a18c1a0@f387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Matias Wagner (Institut für Humangenetik\, Klinikum der Technischen Universität München)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
+DTEND:20260729T153000Z
+LOCATION:INF 440\, HS 272
+DTSTART:20260729T143000Z
+SUMMARY:Colloquium of the Institute of Human Genetics: n-of-1 ASO treatments for neurogenetic disorders - preclinial conceps and lessons   learned
+UID:a596ced4-5da9-4b28-b4a7-1570ef370938@a596.org
+URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Martin Pačesa (Institute of Pharmacology\, University of Zurich)\nVenue: MPI for Medical Research\, Seminar Room A/B\nDuration: 1h
+DTEND:20260717T090000Z
+LOCATION:MPI for Medical Research\, Seminar Room A/B
+DTSTART:20260717T080000Z
+SUMMARY:Rudolf Mößbauer Colloquium: Accurate protein binder design using BindCraft
+UID:1b07a6b0-221e-4bfd-8475-9dbddd58bd61@1b07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Mallika Singh (Revolution Medicine)\nVenue: DKFZ\, Main Auditorium\nDuration: 1h
+DTEND:20260831T120000Z
+LOCATION:DKFZ\, Main Auditorium
+DTSTART:20260831T110000Z
+SUMMARY:Distinguished Lecturer Seminar Series: Targeting the Oncogenic State of RAS with Tri-Complex Inhibitors
+UID:a63da899-30d1-4a27-ad18-7f97c53f6d6c@a63d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Julia Carolin Stingl (Med. Klinik UKHD\, Dept. für Klinische Pharmakologie)\, Collen Masimirembwa (University of the Witwatersrand\, South Africa)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
+DTEND:20260715T153000Z
+LOCATION:INF 440\, HS 272
+DTSTART:20260715T143000Z
+SUMMARY:Colloquium of the Institute of Human Genetics: Genomic Diversity in Africa: Implications for Pharmacogenomics in a global health perspective
+UID:317f7f29-8579-4fc6-8224-80822b36e70a@317f.org
+URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Milena Schumacher (EPFL Lausanne)\nVenue: INF 328\, Ground Floor\, SR 25\nDuration: 1h
+DTEND:20260721T111500Z
+LOCATION:INF 328\, Ground Floor\, SR 25
+DTSTART:20260721T101500Z
+SUMMARY:BZH - ZMBH Guest Lecture: More than fat - Tracking the secret life of lipids
+UID:cab2363c-f091-43dd-b1c7-35f2912c9875@cab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Peter Huber (DKFZ)\nVenue: DKFZ Lecture Hall\nDuration: 1h
+DTEND:20260727T150000Z
+LOCATION:DKFZ Lecture Hall
+DTSTART:20260727T140000Z
+SUMMARY:SCIENCE@DKFZ: Desired and adverse effects of cancer radiotherapy
+UID:dc87321c-9b92-4995-b441-acdd5f6fc0d0@dc87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Marylyn M. Addo (University Medical Center Hamburg-Eppendorf (UKE))\nVenue: BioQuant Lecture Hall SR41\nDuration: 1h
+DTEND:20260825T140000Z
+LOCATION:BioQuant Lecture Hall SR41
+DTSTART:20260825T130000Z
+SUMMARY:BioQuant Seminar: TBA
+UID:303bcf8f-e618-4aeb-825a-5917ac95d296@303b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Yunus Emre Demiray (Department of Genetics and Molecular Biology\, Otto-von-Guericke University\, Magdeburg) ​\nVenue: INF 328\, SR25\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
+DTEND:20260715T120000Z
+LOCATION:INF 328\, SR25
+DTSTART:20260715T110000Z
+SUMMARY:IZN Lecture: Impact of early life stress on hippocampal engrams and molecular signatures
+UID:e858003d-2ea3-42e8-8be3-150b56d5473d@e858.org
+URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Philipp Kellmeyer\, Sivam Suchak                                   (School of Business Informatics and Mathematics\, Universität Mannheim)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
+DTEND:20261216T163000Z
+LOCATION:INF 440\, HS 272
+DTSTART:20261216T153000Z
+SUMMARY:Colloquium of the Institute of Human Genetics: Hi-C Analysis of Epigenetic Memory in Diet-Induced Obesity
+UID:8f34314d-4ae8-4bd1-9426-da243ac5e413@8f34.org
+URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
 END:VEVENT
 END:VCALENDAR
