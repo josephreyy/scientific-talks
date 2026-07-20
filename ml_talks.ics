@@ -7,8 +7,17 @@ DTEND:20260925T220000Z
 LOCATION:Mathematikon Im Neuenheimer Feld 205 69120 Heidelberg
 DTSTART:20260920T220000Z
 SUMMARY:AI for Science
-UID:a975bac5-2277-4333-8db9-0fdfa3b4bb39@a975.org
+UID:a52b8add-7ba3-45d2-8bb0-ec05040c2903@a52b.org
 URL:https://www.iwr.uni-heidelberg.de/en/iwr-school-2026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: IV: Maschinelles Lernen verstehen – eine physikalische Perspektive Können physikalische Systeme neue Arten Künstlicher Intelligenz verkörpern? Vortrag von Dr. Miriam Klopotek I Stuttgart und PD Dr. Eric Raidl I Tübingen Algorithmen des maschinellen Lernens (ML) durchdringen zunehmend unser Leben. Sie sagen vorher\, aber ihre Entscheidungen bleiben oft opak\, d.h. unzugänglich oder unverständlich. Richtlinien und Experten fordern mehr Transparenz und Erklärungen\, als seien ML-Algorithmen Kommunikationspartner. Wir betrachten sie als physikalische Systeme\, die mit ihrer Umwelt interagieren. Dies öffnet neue Perspektiven für unser Verständnis: Maschinelles Lernen ist eine Art anpassungsfähiges Verhalten. Opakheit entsteht durch Komplexität\, die je nach Abstraktionsebene reduziert werden kann oder nicht. Verständnis entsteht dann nicht durch mehr Transparenz oder Erklärungen\, auch nicht durch weniger Komplexität\, sondern durch einen sinnvollen Wechsel der Abstraktionsebene. Die physikalische Perspektive gibt auch Anstöße für eine neue Generation von KI: wenn ML-Algorithmen physikalische Systeme simulieren können\, ist dies auch umkehrbar\, und somit können physikalische Systeme neue Arten Künstlicher Intelligenz verkörpern\nHost: Heidelberger Akademie der Wissenschaften\nVenue: Heidelberger Akademie der Wissenschaften\, Karlstraße 4\nLink: https://www.hadw-bw.de/maschinelles-lernen-verstehen\nDuration: 1h
+DTEND:20260722T171500Z
+LOCATION:Heidelberger Akademie der Wissenschaften\, Karlstraße 4
+DTSTART:20260722T161500Z
+SUMMARY:Wir forschen. Für Sie.
+UID:1d2db8f0-5a8f-4faf-b935-2452e501c335@1d2d.org
+URL:https://www.hadw-bw.de/maschinelles-lernen-verstehen
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Dr. Liam Keegan As agentic coding tools like Claude Code and Codex CLI make generating code faster\, validating the correctness of this code becomes more important than ever. In this course you will learn how to apply test-driven development and software testing best practices in the context of agentic software development. By writing tests before the implementation\, our test suite not only verifies correctness\, but also defines a clear specification of what the code should and should not do\nHost: Scientific Software Center\nVenue: Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor\nLink: https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development\nDuration: 3h 30m
@@ -16,17 +25,8 @@ DTEND:20260723T110000Z
 LOCATION:Mathematikon Bauteil A\, Im Neuenheimer Feld 205\, in the conference room 5/104 on the 5th floor
 DTSTART:20260723T073000Z
 SUMMARY:Compact course: Agentic Test-Driven Development
-UID:5cb2ec83-dcf1-428b-81a3-323c0eb38025@5cb2.org
+UID:5f65a99d-df00-48b2-ae1e-680fceb1bd3c@5f65.org
 URL:https://www.ssc.uni-heidelberg.de/en/agentic-test-driven-development
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Thomas Metcalf (University of Bonn\, Institute for Science and Ethics\, Senior Researcher) In 2021\, in a landmark article\, philosopher Aimee van Wynsberghe helped inaugurate the present-day study of whether and how AI technology can be sustainable throughout its lifecycle. In the intervening five years\, there have been just a few interesting developments in AI. Therefore\, it is important to revisit the main philosophical considerations surrounding the nature and importance of sustainable AI. In this lecture\, philosopher Thomas Metcalf argues that we now have a clearer view of where and how AI will be sustainable or unsustainable. Dr. Metcalf argues that social sustainability will prove more urgent than environmental and economic sustainability\, and that we should think of the sustainability of AI in terms of the sustainability of infrastructures\, including academic and democratic infrastructures\nHost: Fakultät für Mathematik und Informatik\nVenue: Mathematikon\, Hörsaal\, INF 205\, 18.00 Uhr\nLink: https://www.mathinf.uni-heidelberg.de/de/veranstaltungen/sustainable-ai-five-years-later-2026-07-08\nDuration: 1h
-DTEND:20260708T170000Z
-LOCATION:Mathematikon\, Hörsaal\, INF 205\, 18.00 Uhr
-DTSTART:20260708T160000Z
-SUMMARY:Sustainable AI\, Five Years Later
-UID:d910da55-fcf1-4d03-afbe-192d325e7e09@d910.org
-URL:https://www.mathinf.uni-heidelberg.de/de/veranstaltungen/sustainable-ai-five-years-later-2026-07-08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Workshop The third “European AI for Fundamental Physics Conference” (EuCAIFCon) will be held in Heidelberg\, from 24th to 28th of August 2026. The aim of this event is to provide a platform for establishing new connections between AI activities across various branches of fundamental physics\, by bringing together researchers that face similar challenges and/or use similar AI solutions. The conference will be organized “horizontally”: sessions are centered on specific AI methods and themes\, while being cross-disciplinary regarding the scientific questions. EuCAIFCon 2026 is organised by EuCAIF\nHost: Tilman Plehn\nVenue: see website\nLink: https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview\nDuration: 120h
@@ -34,7 +34,7 @@ DTEND:20260828T220000Z
 LOCATION:see website
 DTSTART:20260823T220000Z
 SUMMARY:Conference: EuCAIF
-UID:06e591dd-2a9c-4036-a90f-f7e0dc6eb18b@06e5.org
+UID:bc49b7fa-af70-4f44-9e80-2de95f7f04e7@bc49.org
 URL:https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/413394?$scrollTo=toc_overview
 END:VEVENT
 END:VCALENDAR
