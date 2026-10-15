@@ -2,271 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Valery Grinevich (Neuropeptide Research in Psychiatry\, Central Institute of Mental Health) ​\nVenue: INF 328\, SR25\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
-DTEND:20261007T120000Z
-LOCATION:INF 328\, SR25
-DTSTART:20261007T110000Z
-SUMMARY:IZN Concepts Talk: Operating Principles Of Peptide Signaling In The Brain
-UID:64d2f698-b632-4328-bbaa-622b36760a50@64d2.org
-URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Ramsey Nahm (Organoid Engineering Lab Heidelberg)\nVenue: CIID (Im Neuenheimer Feld 344\, Ground Floor)\nDuration: 1h
-DTEND:20261015T152000Z
-LOCATION:CIID (Im Neuenheimer Feld 344\, Ground Floor)
-DTSTART:20261015T142000Z
-SUMMARY:SynthImmune Seminar Series
-UID:18ca7c3f-e39a-45c7-b6fa-443c9eb46c33@18ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Leonie Anton (University of Bern & EMBL)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_FwPC_-hGROmNC_HVdLyx5Q\nDuration: 1h
-DTEND:20261021T143000Z
-LOCATION:online
-DTSTART:20261021T133000Z
-SUMMARY:EMBL Webinar: Using in situ cryoET to investigate intracellular host-pathogen interactions
-UID:8dbbd668-978d-4f42-aeea-ad048784225d@8dbb.org
-URL:https://embl-org.zoom.us/webinar/register/WN_FwPC_-hGROmNC_HVdLyx5Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Clara Schoeder (University of Leipzig)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_5XyeLZBTTCuTP9Ooj3CTCQ#/registration\nDuration: 1h
-DTEND:20261104T153000Z
-LOCATION:online
-DTSTART:20261104T143000Z
-SUMMARY:Strategies for computational vaccine design: from prefusion stabilisation to epitope focussing
-UID:46a323c5-f13f-4469-a71b-7e6f234664e1@46a3.org
-URL:https://embl-org.zoom.us/webinar/register/WN_5XyeLZBTTCuTP9Ooj3CTCQ#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Jeroen Krijgsveld (DKFZ)\nVenue: DKFZ Lecture Hall\nDuration: 1h
-DTEND:20261123T160000Z
-LOCATION:DKFZ Lecture Hall
-DTSTART:20261123T150000Z
-SUMMARY:SCIENCE@DKFZ: Cancer proteomics: from tissues to single cells⁢
-UID:45267211-3591-46e0-94da-0c28e0303e47@4526.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Florian Wilfling (MPI of Biophysics\, Frankfurt)\nVenue: SR 25\, INF 328\, ground floor\nLink: mailto:office-joazeiro@zmbh.uni-heidelberg.de\nDuration: 1h
-DTEND:20261022T120000Z
-LOCATION:SR 25\, INF 328\, ground floor
-DTSTART:20261022T110000Z
-SUMMARY:ZMBH Guest Lecture: Material state governs cargo selection and fate in autophagy
-UID:f089a153-1818-4644-8b09-04169330ae7e@f089.org
-URL:mailto:office-joazeiro@zmbh.uni-heidelberg.de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Adam Lewandowski (UK Biobank)\, Fergus Imrie (OpenBind)\, Louis-Felix Nothias (Univ. Côte d’Azur\, CNRS)\, Roman Bushuiev (IOCB Prague)\, James McLaughlin (EMBL-EBI)\nVenue: Online or Dendron Seminar Suite\, EMBL-EBI Thornton Building\, Hinxton\, UK\nLink: https://app.smartsheet.eu/b/form/019fc819f16973d1a399b0e211398456\nDuration: 7h 30m
-DTEND:20261023T160000Z
-LOCATION:Online or Dendron Seminar Suite\, EMBL-EBI Thornton Building\, Hinxton\, UK
-DTSTART:20261023T083000Z
-SUMMARY:EMBL Seminar: MetaboLights and AIBIO-UK workshop
-UID:42560c32-3591-4081-bff3-6c50fe7e82c7@4256.org
-URL:https://app.smartsheet.eu/b/form/019fc819f16973d1a399b0e211398456
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Alessandro Ulivi (Universitätsklinikum Heidelberg)\, Christian Schmidt (DKFZ)\, Victor Pérez (Universitätsklinikum Heidelberg)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
-DTEND:20261123T160000Z
+DESCRIPTION:Speaker: Vibor Laketa (University Hospital Heidelberg)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
+DTEND:20261019T150000Z
 LOCATION:Large Seminar Room (SR41) at BioQuant
-DTSTART:20261123T130000Z
-SUMMARY:HiLight Microscopy Seminar Series: Image Data Management
-UID:d542f68c-935b-4c15-aff8-81bfcb50bf90@d542.org
+DTSTART:20261019T120000Z
+SUMMARY:HiLight Microscopy Seminar Series: Concepts in microscopy
+UID:d45cf2a8-05f7-4dfe-994b-e7f69c16e591@d45c.org
 URL:https://www.sci.events/e_230/abcmicroscopy/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Janne Lethioe (Karolinska Institutet)\nVenue: DKFZ (main building)\, main auditorium\nDuration: 1h
-DTEND:20261112T110000Z
-LOCATION:DKFZ (main building)\, main auditorium
-DTSTART:20261112T100000Z
-SUMMARY:Distinguished Lecturer Seminar Series: TBA
-UID:801c1dd5-de9c-4c1d-887d-2acfe829a195@801c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Severina Klaus (Center for Integrative Infectious Disease Research)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
-DTEND:20261109T160000Z
-LOCATION:Large Seminar Room (SR41) at BioQuant
-DTSTART:20261109T130000Z
-SUMMARY:HiLight Microscopy Seminar Series: Image Processing
-UID:394230a4-7197-4bc8-93e0-b75831a7a298@3942.org
-URL:https://www.sci.events/e_230/abcmicroscopy/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Benjamin Tu (UT Southwestern Medical Center)\nVenue: DKFZ (main building)\, main auditorium\nDuration: 1h
-DTEND:20261009T100000Z
-LOCATION:DKFZ (main building)\, main auditorium
-DTSTART:20261009T090000Z
-SUMMARY:Distinguished Lecturer Seminar Series: TBA
-UID:de4bf70d-42f1-4b18-81b3-aa316b98dce7@de4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Tatjana Tchumachenko (Institute for Experimental Epileptology and Cognition Research\, University of Bonn Medical Center)\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
-DTEND:20261014T120000Z
-LOCATION:SR25\, BZH (INF 328)
-DTSTART:20261014T110000Z
-SUMMARY:IZN Lecture: Manifold dynamics during navigation
-UID:90c5cf59-3d4a-4aeb-935a-2a087b5afbc8@90c5.org
-URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Philipp Kellmeyer\, Sivam Suchak                                   (School of Business Informatics and Mathematics\, Universität Mannheim)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
-DTEND:20261216T163000Z
-LOCATION:INF 440\, HS 272
-DTSTART:20261216T153000Z
-SUMMARY:Colloquium of the Institute of Human Genetics: Hi-C Analysis of Epigenetic Memory in Diet-Induced Obesity
-UID:fddf733b-dca5-420c-ac8a-30813077d57d@fddf.org
-URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Michael Kuhn (EMBL Heidelberg)\, Peter Woollard (EMBL-EBI)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_7BVxc1UgTayqudqpsJi7tA#/registration\nDuration: 1h 30m
-DTEND:20261002T113000Z
-LOCATION:online
-DTSTART:20261002T100000Z
-SUMMARY:EMBL Webinar: From hard drive to archive: submitting your data to make it findable and reusable
-UID:e755ee0f-1719-4dc4-8bea-6a17af3d332b@e755.org
-URL:https://embl-org.zoom.us/webinar/register/WN_7BVxc1UgTayqudqpsJi7tA#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Ed Lyman (University of Delaware)\nVenue: INF 328\, SR 25\nDuration: 1h
-DTEND:20261006T111500Z
-LOCATION:INF 328\, SR 25
-DTSTART:20261006T101500Z
-SUMMARY:BZH - ZMBH Guest Lecture: TBA
-UID:d4dd80b3-4bb0-4d96-b377-15224123cf4c@d4dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Aude Bernheim (Institut Pasteur)\nVenue: N4\nDuration: 1h
-DTEND:20261015T120000Z
-LOCATION:N4
-DTSTART:20261015T110000Z
-SUMMARY:GreenRobust Seminar Series
-UID:219860f3-87a7-4600-b335-018b7ba4a82e@2198.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Natalie Machado (Beth Israel Deaconess Medical Center and Harvard Medical School) ​\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
-DTEND:20261104T130000Z
-LOCATION:SR25\, BZH (INF 328)
-DTSTART:20261104T120000Z
-SUMMARY:IZN Lecture: Brain circuits and central mechanisms underlying survival during immune and metabolic stress
-UID:a63e0581-b9f7-4071-84c1-cbb90375c4af@a63e.org
-URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: José Márquez (EMBL Grenoble)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_b9_ibufHQ_29fBEUyBsBWQ#/registration\nDuration: 1h
-DTEND:20261028T153000Z
-LOCATION:online
-DTSTART:20261028T143000Z
-SUMMARY:EMBL Webinar: Automated X-ray fragment and ligand screening for therapeutic innovation in infection biology
-UID:bf64723e-1166-41c1-8e4f-f83f9e6da9bf@bf64.org
-URL:https://embl-org.zoom.us/webinar/register/WN_b9_ibufHQ_29fBEUyBsBWQ#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Cantas Alev (Kyoto University\, Japan)\nVenue: BioQuant (INF267)\, SR041\nDuration: 1h
-DTEND:20261013T130000Z
-LOCATION:BioQuant (INF267)\, SR041
-DTSTART:20261013T120000Z
-SUMMARY:FI EMS Colloquium: TBA
-UID:197f63e8-b8ab-42f0-b217-ebfc16246469@197f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Daniel Rice (EMBL-EBI)\, Swaathi Kandasaamy (EMBL-EBI)\, Minjoon Kim (EMBL-EBI)\nVenue: online\nLink: https://embl-org.zoom.us/meeting/register/uhnuld7ZTmOQxcGbfB2ZVg#/registration\nDuration: 8h
-DTEND:20261007T163000Z
-LOCATION:online
-DTSTART:20261007T083000Z
-SUMMARY:EMBL Webinar: ProtVista hackathon: integrate and visualise your protein data
-UID:acb54f40-727c-4f03-a3ce-422934a446fe@acb5.org
-URL:https://embl-org.zoom.us/meeting/register/uhnuld7ZTmOQxcGbfB2ZVg#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Rene-Filip Jackstadt (DKFZ)\nVenue: DKFZ Lecture Hall\nDuration: 1h
-DTEND:20261026T160000Z
-LOCATION:DKFZ Lecture Hall
-DTSTART:20261026T150000Z
-SUMMARY:SCIENCE@DKFZ: Plasticity in therapy resistance and metastasis of colorectal cancer⁢
-UID:a591f6ce-8237-4734-ae4a-5500a3d1ea40@a591.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Samuel Miravet-Verde (ETH Zürich)\, Ekaterina Sakharova (EMBL-EBI)\, Alexander Sczyrba (Bielefeld University\, Centrum for Biotechnology (CeBiTec))\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_8Wo6D88SRvO-uhkDYX-Ybw#/registration\nDuration: 1h 30m
-DTEND:20261009T113000Z
-LOCATION:online
-DTSTART:20261009T100000Z
-SUMMARY:EMBL Webinar: Reconstructing ocean life: metagenome-assembled genomes in marine research
-UID:7515f336-2748-4d09-9208-b79209e8e4ff@7515.org
-URL:https://embl-org.zoom.us/webinar/register/WN_8Wo6D88SRvO-uhkDYX-Ybw#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Natan T. Shaked (Tel Aviv University)\nVenue: EINC building (INF 225a) Seminar room R00.222\nDuration: 1h
-DTEND:20261001T083000Z
-LOCATION:EINC building (INF 225a) Seminar room R00.222
-DTSTART:20261001T073000Z
-SUMMARY:KIP Talk: Real-Time Deep Learning for Label-Free Imaging Flow Cytometry
-UID:ade4971b-4709-4a94-b050-cadc0e123200@ade4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Jan Kosinski (EMBL Hamburg)\nVenue: Online\nLink: https://embl-org.zoom.us/webinar/register/WN_WELCIAZIRxWRnIyQejBBkA#/registration\nDuration: 1h
-DTEND:20261007T143000Z
-LOCATION:Online
-DTSTART:20261007T133000Z
-SUMMARY:EMBL Webinar: AI-based structural modelling of host-pathogen protein interactions
-UID:f56592fd-c561-4212-8d3e-3f591a9f96d8@f565.org
-URL:https://embl-org.zoom.us/webinar/register/WN_WELCIAZIRxWRnIyQejBBkA#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Matt Higgins (University of Oxford)\nVenue: Online\nLink: https://embl-org.zoom.us/webinar/register/WN_z6LF2AliQ9ekXsBiGohMyQ#/registration\nDuration: 1h
-DTEND:20261014T143000Z
-LOCATION:Online
-DTSTART:20261014T133000Z
-SUMMARY:EMBL Webinar: How do parasites evade immune clearance? A structural perspective
-UID:1c374a3e-fbc9-47aa-b59a-df187355939a@1c37.org
-URL:https://embl-org.zoom.us/webinar/register/WN_z6LF2AliQ9ekXsBiGohMyQ#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Akos Nyerges (Harvard Medical School)\nVenue: BioQuant SR041 and online\nLink: https://eu02web.zoom-x.de/j/61435067001?pwd=a9a6goVTj9z4QL73H38NrPRWzO2YjV.1.\nDuration: 1h
-DTEND:20261012T130000Z
-LOCATION:BioQuant SR041 and online
-DTSTART:20261012T120000Z
-SUMMARY:Center SynGen / ZMBH Seminar: Synthetic Genomes and Genetic Codes for Virus Resistance\, Biocontainment\, and Therapy
-UID:cd2a5d30-32af-497e-ba17-7d5573293d7f@cd2a.org
-URL:https://eu02web.zoom-x.de/j/61435067001?pwd=a9a6goVTj9z4QL73H38NrPRWzO2YjV.1.
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Nicolaus von Wiren (Leibniz Institute of Plant Genetics and Crop Plant Research)\nVenue: N4\nDuration: 1h
-DTEND:20261119T130000Z
-LOCATION:N4
-DTSTART:20261119T120000Z
-SUMMARY:GreenRobust Seminar Series
-UID:c20555d2-d428-4f31-8273-c07b47e91726@c205.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Venue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_3oCX_E0ZScGCPICvZD1TvA#/registration\nDuration: 1h
-DTEND:20261001T150000Z
-LOCATION:online
-DTSTART:20261001T140000Z
-SUMMARY:EMBL Webinar: A guide to UniProt for students and biological scientists
-UID:b821bcfd-79fa-4a67-a46a-787fa683140b@b821.org
-URL:https://embl-org.zoom.us/webinar/register/WN_3oCX_E0ZScGCPICvZD1TvA#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Quirin Krabichler (Central Institute of Mental Health)\, Diego Pastene Maldonado (Medical Faculty Mannheim)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
-DTEND:20261026T160000Z
-LOCATION:Large Seminar Room (SR41) at BioQuant
-DTSTART:20261026T130000Z
-SUMMARY:HiLight Microscopy Seminar Series: Microscopy Experiment Design and Sample Preparation
-UID:3f34e537-6f5c-40cb-bf68-c814d5017f16@3f34.org
-URL:https://www.sci.events/e_230/abcmicroscopy/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Georg Hochberg (Max Planck Institute for Terrestrial Microbiology)\nVenue: 3M07\nDuration: 1h
-DTEND:20261001T120000Z
-LOCATION:3M07
-DTSTART:20261001T110000Z
-SUMMARY:GreenRobust Seminar Series
-UID:debf2690-027a-47f5-8a1d-d475970d0767@debf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Cristina Paulino (BZH)\nVenue: INF 328 (BZH)\, SR25\nDuration: 1h
-DTEND:20261016T121500Z
-LOCATION:INF 328 (BZH)\, SR25
-DTSTART:20261016T111500Z
-SUMMARY:HDcryoEM lecture: Continuation on image formation and developments in single-particle cryo-EM
-UID:61f4844f-26de-4a13-b80b-0ff4f78c10ea@61f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Christian Atallah (EMBL-EBI)\, Christine Orengo (UCL)\,  Mercedes Sánchez Costa (Centro de Astrobiología)\, Jorge Díaz-Rullo (Centro de Biología Molecular Severo Ochoa\, CSIC)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_KaeNLc2tR92v0BYlHLx5yQ#/registration\nDuration: 1h 30m
@@ -274,51 +16,53 @@ DTEND:20261016T113000Z
 LOCATION:online
 DTSTART:20261016T100000Z
 SUMMARY:EMBL Webinar: Harnessing enzymatic functions: comparison of activity-based and sequence-based approaches
-UID:79e58518-5b38-4863-9608-5961cc581249@79e5.org
+UID:8f021712-3d0f-4d2c-9520-53157f34b185@8f02.org
 URL:https://embl-org.zoom.us/webinar/register/WN_KaeNLc2tR92v0BYlHLx5yQ#/registration
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Michael Baake (Universität Bielefeld)\nVenue: Studio Villa Bosch Schloss-Wolfsbrunnenweg 33\nLink: https://kta-email.zoom.us/meeting/register/E8URVYJBT_C5UZFH3WrT7w#/registration\nDuration: 1h
-DTEND:20261005T130000Z
-LOCATION:Studio Villa Bosch Schloss-Wolfsbrunnenweg 33
-DTSTART:20261005T120000Z
-SUMMARY:HITS Colloquium: The Markov embedding problem – old and new
-UID:71305f86-8240-4b68-84ea-f0bec287c753@7130.org
-URL:https://kta-email.zoom.us/meeting/register/E8URVYJBT_C5UZFH3WrT7w#/registration
+DESCRIPTION:Speaker: Ulrike Engel (Centre for Organismal Studies)\, Diego Pastene Maldonado (Medical Faculty Mannheim)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
+DTEND:20261102T160000Z
+LOCATION:Large Seminar Room (SR41) at BioQuant
+DTSTART:20261102T130000Z
+SUMMARY:HiLight Microscopy Seminar Series: Image acquisition
+UID:38082354-1ebf-424a-ad5e-5bad1e13b331@3808.org
+URL:https://www.sci.events/e_230/abcmicroscopy/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Elias Barriga (TU Dresden)\nVenue: INF 230\, 0.005\nDuration: 1h
-DTEND:20261022T140000Z
-LOCATION:INF 230\, 0.005
-DTSTART:20261022T130000Z
-SUMMARY:COS Seminar Series
-UID:570c8f37-248c-4470-bd49-4e4014807988@570c.org
+DESCRIPTION:Speaker: Matt Higgins (University of Oxford)\nVenue: Online\nLink: https://embl-org.zoom.us/webinar/register/WN_z6LF2AliQ9ekXsBiGohMyQ#/registration\nDuration: 1h
+DTEND:20261014T143000Z
+LOCATION:Online
+DTSTART:20261014T133000Z
+SUMMARY:EMBL Webinar: How do parasites evade immune clearance? A structural perspective
+UID:8cf3e267-9bba-43b1-8908-b12dc6dd2cf9@8cf3.org
+URL:https://embl-org.zoom.us/webinar/register/WN_z6LF2AliQ9ekXsBiGohMyQ#/registration
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Christian Ungermann (Osnabrück University\, Germany)\nVenue: BioQuant (INF267)\, SR041\nDuration: 1h
-DTEND:20261012T160000Z
-LOCATION:BioQuant (INF267)\, SR041
-DTSTART:20261012T150000Z
-SUMMARY:FI EMS Colloquium: Structure and analysis of membrane-associated complexes of yeast vacuoles
-UID:ed3d96fa-6b41-4246-80f0-7aee174f60c9@ed3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Abbe Brown (University of Aberdeen)\, Samuel Chaffron (French National Centre for Scientific Research (CNRS))\, Paula Huber (CONICET)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_jupt0Jl7Rq6R134iQTQyqA#/registration\nDuration: 1h 30m
-DTEND:20261023T113000Z
+DESCRIPTION:Speaker: Clara Schoeder (University of Leipzig)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_5XyeLZBTTCuTP9Ooj3CTCQ#/registration\nDuration: 1h
+DTEND:20261104T153000Z
 LOCATION:online
-DTSTART:20261023T100000Z
-SUMMARY:EMBL Webinar: Ocean function and value: marine ecosystem mapping and services
-UID:3cf451cf-0729-4530-8d23-bd093558d6b5@3cf4.org
-URL:https://embl-org.zoom.us/webinar/register/WN_jupt0Jl7Rq6R134iQTQyqA#/registration
+DTSTART:20261104T143000Z
+SUMMARY:Strategies for computational vaccine design: from prefusion stabilisation to epitope focussing
+UID:08a40778-81ae-4780-bbc4-91285bf9f44b@08a4.org
+URL:https://embl-org.zoom.us/webinar/register/WN_5XyeLZBTTCuTP9Ooj3CTCQ#/registration
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Pia Steinrücken (NORCE)\, Anita Santana-Sanchez (NORCE)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_uqm1dZAASkqr39wlI9y9Tw#/registration\nDuration: 1h 30m
-DTEND:20261106T123000Z
-LOCATION:online
-DTSTART:20261106T110000Z
-SUMMARY:EMBL Webinar: Designing sustainable systems: sustainability assessment of bio-based products and processes
-UID:dfd3ed07-1508-407e-a0d8-0f57d7e77cfe@dfd3.org
-URL:https://embl-org.zoom.us/webinar/register/WN_uqm1dZAASkqr39wlI9y9Tw#/registration
+DESCRIPTION:Speaker: Severina Klaus (Center for Integrative Infectious Disease Research)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
+DTEND:20261109T160000Z
+LOCATION:Large Seminar Room (SR41) at BioQuant
+DTSTART:20261109T130000Z
+SUMMARY:HiLight Microscopy Seminar Series: Image Processing
+UID:2e6a94d5-28d6-412e-8274-79ca205bafd3@2e6a.org
+URL:https://www.sci.events/e_230/abcmicroscopy/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: John Ziebuhr (Justus-Liebig-Universität Gieße)\nVenue: CIID\, SR 003/004\nLink: https://ukhd.webex.com/ukhd/j.php?MTID=mfd5bf231839de8bab49e15b5818b8656\nDuration: 1h
+DTEND:20261020T161500Z
+LOCATION:CIID\, SR 003/004
+DTSTART:20261020T151500Z
+SUMMARY:Molecular Virology Seminar: Conservation and functions of coronavirus cis-acting RNA elements and RNA polymerase-associated  nucleotidyl transferase activities
+UID:60fd9416-0aa6-4b7c-a6d3-6a9d7756d3d1@60fd.org
+URL:https://ukhd.webex.com/ukhd/j.php?MTID=mfd5bf231839de8bab49e15b5818b8656
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Marcelo Querino (EMBL-EBI)\, Kyle Morris (EMBL-EBI)\, Stephanie Lo (EMBL-EBI)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_POSFQrLeRbyb1qThr3YE4Q#/registration\nDuration: 1h
@@ -326,16 +70,24 @@ DTEND:20261111T153000Z
 LOCATION:online
 DTSTART:20261111T143000Z
 SUMMARY:EMBL Webinar: Exploring proteins in infection biology with EMBL-EBI resources
-UID:adcd7435-0fce-4422-b3e8-d2dfbd546d10@adcd.org
+UID:01bc7081-16f4-4265-a3f1-d2dc68f25dbb@01bc.org
 URL:https://embl-org.zoom.us/webinar/register/WN_POSFQrLeRbyb1qThr3YE4Q#/registration
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Michael Lenhard (University of Potsdam)\nVenue: INF 230\, 0.005\nDuration: 1h
-DTEND:20261112T150000Z
-LOCATION:INF 230\, 0.005
-DTSTART:20261112T140000Z
-SUMMARY:COS Seminar Series
-UID:2d205337-5e37-4e30-a762-cef24640cc95@2d20.org
+DESCRIPTION:Speaker: Janne Lethioe (Karolinska Institutet)\nVenue: DKFZ (main building)\, main auditorium\nDuration: 1h
+DTEND:20261112T110000Z
+LOCATION:DKFZ (main building)\, main auditorium
+DTSTART:20261112T100000Z
+SUMMARY:Distinguished Lecturer Seminar Series: TBA
+UID:de0398f8-bfab-48e9-b9b3-40f066e0f81b@de03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Ramsey Nahm (Organoid Engineering Lab Heidelberg)\nVenue: CIID (Im Neuenheimer Feld 344\, Ground Floor)\nDuration: 1h
+DTEND:20261015T152000Z
+LOCATION:CIID (Im Neuenheimer Feld 344\, Ground Floor)
+DTSTART:20261015T142000Z
+SUMMARY:SynthImmune Seminar Series
+UID:9a427ec4-7cc3-4325-8685-dcd28f17af46@9a42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Elijah Lowenstein (Harvard Medical School\, Beth Israel Deaconess Medical Center)\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
@@ -343,7 +95,137 @@ DTEND:20261111T130000Z
 LOCATION:SR25\, BZH (INF 328)
 DTSTART:20261111T120000Z
 SUMMARY:IZN Lecture A hypothalamic circuit for anticipating future changes in energy balance
-UID:c46ce5f0-ad85-484d-a8ef-fbfcc4df229e@c46c.org
+UID:1f4c34fe-e39c-4366-b7eb-50a321d718ea@1f4c.org
+URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Florian Wilfling (MPI of Biophysics\, Frankfurt)\nVenue: SR 25\, INF 328\, ground floor\nLink: mailto:office-joazeiro@zmbh.uni-heidelberg.de\nDuration: 1h
+DTEND:20261022T120000Z
+LOCATION:SR 25\, INF 328\, ground floor
+DTSTART:20261022T110000Z
+SUMMARY:ZMBH Guest Lecture: Material state governs cargo selection and fate in autophagy
+UID:80d046e2-cfcc-4054-9113-2038b621f215@80d0.org
+URL:mailto:office-joazeiro@zmbh.uni-heidelberg.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Edina Rosta (University College London)\nVenue: Studio Villa Bosch Schloss-Wolfsbrunnenweg 33\nLink: https://kta-email.zoom.us/meeting/register/E8URVYJBT_C5UZFH3WrT7w#/registration\nDuration: 1h
+DTEND:20261102T140000Z
+LOCATION:Studio Villa Bosch Schloss-Wolfsbrunnenweg 33
+DTSTART:20261102T130000Z
+SUMMARY:HITS-SIMPLAIX Joint Colloquium: From Correlation to Control: Causality-Guided Enhanced Sampling of Biomolecular Dynamics
+UID:142ae135-ba3b-45bf-8b47-ac54a4c0660c@142a.org
+URL:https://kta-email.zoom.us/meeting/register/E8URVYJBT_C5UZFH3WrT7w#/registration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Alessandro Ulivi (Universitätsklinikum Heidelberg)\, Severina Klaus (CIID)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
+DTEND:20261116T160000Z
+LOCATION:Large Seminar Room (SR41) at BioQuant
+DTSTART:20261116T130000Z
+SUMMARY:HiLight Microscopy Seminar Series: Image Analysis and Quantification
+UID:68e0c192-4fb5-42ae-97c9-8a6c6badf300@68e0.org
+URL:https://www.sci.events/e_230/abcmicroscopy/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Florian Hollfelder (University of Cambridge)\, Liisa van Vliet (University of Cambridge)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_CZtiwz7KTSShhROxDvHTAQ#/registration\nDuration: 1h 20m
+DTEND:20261030T122000Z
+LOCATION:online
+DTSTART:20261030T110000Z
+SUMMARY:EMBL Webinar: High-throughput microbial discovery: interfacing droplet microfluidics with metagenomics
+UID:11486cd2-3f40-405d-b9ce-4e697e6165e6@1148.org
+URL:https://embl-org.zoom.us/webinar/register/WN_CZtiwz7KTSShhROxDvHTAQ#/registration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Stefan Diez (TU Dresden)\nVenue: BioQuant (INF267)\, SR041\nDuration: 1h
+DTEND:20261112T170000Z
+LOCATION:BioQuant (INF267)\, SR041
+DTSTART:20261112T160000Z
+SUMMARY:FI EMS Colloquium: TBA
+UID:20e2315e-3b23-4fa0-82e6-fa297782da9a@20e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: José Márquez (EMBL Grenoble)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_b9_ibufHQ_29fBEUyBsBWQ#/registration\nDuration: 1h
+DTEND:20261028T153000Z
+LOCATION:online
+DTSTART:20261028T143000Z
+SUMMARY:EMBL Webinar: Automated X-ray fragment and ligand screening for therapeutic innovation in infection biology
+UID:067d66ab-efd0-4592-8cbb-31b8073d91c5@067d.org
+URL:https://embl-org.zoom.us/webinar/register/WN_b9_ibufHQ_29fBEUyBsBWQ#/registration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Leo Carlin (CRUK Scotland Insitute)\, Maximilian Reichert (School of Medicine & Health\, Technical University of Munich)\nVenue: K1/K2 Seminar Rooms\, DKFZ Communication Center (INF 280)\nDuration: 1h 30m
+DTEND:20261014T103000Z
+LOCATION:K1/K2 Seminar Rooms\, DKFZ Communication Center (INF 280)
+DTSTART:20261014T090000Z
+SUMMARY:BioMedX Lunch Talk Series: 4D regulation of myeloid cells in cancer\; From Tumor Cell States to Multicellular Ecosystems: Decoding Plasticity in Pancreatic Cancer
+UID:52cf7524-8881-4aba-8568-c3ac1e6f1350@52cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Jeroen Krijgsveld (DKFZ)\nVenue: DKFZ Lecture Hall\nDuration: 1h
+DTEND:20261123T160000Z
+LOCATION:DKFZ Lecture Hall
+DTSTART:20261123T150000Z
+SUMMARY:SCIENCE@DKFZ: Cancer proteomics: from tissues to single cells⁢
+UID:fd7ac0cf-0f24-43c0-99bc-1e41bf7633f0@fd7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Aude Bernheim (Institut Pasteur)\nVenue: N4\nDuration: 1h
+DTEND:20261015T120000Z
+LOCATION:N4
+DTSTART:20261015T110000Z
+SUMMARY:GreenRobust Seminar Series
+UID:560c73bd-09d6-48ad-9f44-b437c2030b9d@560c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Radhika Puttagunta (Clinic for Paraplegiology\, Heidelberg University Hospital)\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
+DTEND:20261028T130000Z
+LOCATION:SR25\, BZH (INF 328)
+DTSTART:20261028T120000Z
+SUMMARY:IZN Concepts Talk : Understanding of neuroregenerative mechanisms leading toward treatment of spinal cord injury
+UID:5113252a-9c36-4852-8ee5-26fddde07ca6@5113.org
+URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Jan Löwe (MRC Laboratory of Molecular Biology\, Cambridge)\nVenue: BioQuant\, INF 267\, SR 041\nDuration: 1h
+DTEND:20261020T160000Z
+LOCATION:BioQuant\, INF 267\, SR 041
+DTSTART:20261020T150000Z
+SUMMARY:ZMBH Colloquium Lateral interactions drive self-assembly of the FtsZ ring in bacterial cell division
+UID:0a946951-a698-4ad0-9232-64d791d269c3@0a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Magdalena Gört (DKFZ)\nVenue: online\nLink: https://indico.dkfz.de/event/1707/\nDuration: 1h
+DTEND:20261022T080000Z
+LOCATION:online
+DTSTART:20261022T070000Z
+SUMMARY:Progress in Cancer Research (PiCR) lectures: Multiparametric Methods for Early Detection of Prostate Cancer
+UID:b78865ce-b4d5-428c-8b94-29976e4771c8@b788.org
+URL:https://indico.dkfz.de/event/1707/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Philipp Kellmeyer\, Sivam Suchak                                   (School of Business Informatics and Mathematics\, Universität Mannheim)\nVenue: INF 440\, HS 272\nLink: mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de\nDuration: 1h
+DTEND:20261216T163000Z
+LOCATION:INF 440\, HS 272
+DTSTART:20261216T153000Z
+SUMMARY:Colloquium of the Institute of Human Genetics: Hi-C Analysis of Epigenetic Memory in Diet-Induced Obesity
+UID:9e93cc9e-d71f-4196-8e99-d107758200de@9e93.org
+URL:mailto:andrea.plaza-gonzalez@med.uni-heidelberg.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Razan Abbara (EMBL-EBI)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_CP9eYStjT_yJ4UY3aJY-Iw#/registration\nDuration: 1h
+DTEND:20261103T130000Z
+LOCATION:online
+DTSTART:20261103T120000Z
+SUMMARY:EMBL Webinar: From mutations to mechanisms: using AlphaFold 2 to decode gentamicin resistance
+UID:70cd202f-4fb3-4809-9c00-cdd08e3093ba@70cd.org
+URL:https://embl-org.zoom.us/webinar/register/WN_CP9eYStjT_yJ4UY3aJY-Iw#/registration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Carmen Schäfer (Department of Basic Neurosciences\, University of Geneva)\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
+DTEND:20261118T130000Z
+LOCATION:SR25\, BZH (INF 328)
+DTSTART:20261118T120000Z
+SUMMARY:IZN Lecture: From Cortex to Movement: Causal Circuit Mechanisms of Voluntary Action
+UID:6dc3d432-fc43-4b8b-918e-a32d033a793c@6dc3.org
 URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
 END:VEVENT
 BEGIN:VEVENT
@@ -352,111 +234,24 @@ DTEND:20261119T184500Z
 LOCATION:Lecture Hall\, Institute of Medical Psychology\, Bergheimer Straße 20\, Building 4140
 DTSTART:20261119T140000Z
 SUMMARY:Symposium on Molecular Aging Research: Neuron-selective vulnerability to aging and proteotoxic stress\,  Translation-coupled protein folding and assembly\, Molecular mechanisms of essential gene regulation and implications for aging\, How mitochondria sense age-associated stress\, Mechanisms of disassembly of amyloids by molecular chaperones\, AAA+ machines in destruction and repair of damaged proteins\,  Epigenetic analysis of longevity
-UID:e678973c-5497-46f4-b67c-4f4908094195@e678.org
+UID:a189d87d-a3e8-440c-854b-638f5d9bca6f@a189.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Gun Antonia Nilsson Lock (EMBL-EBI)\, Pedro Raposo (EMBL-EBI)\nVenue: Online\nLink: https://embl-org.zoom.us/webinar/register/WN_me-VyxDPTPy3wti5yKWCdw#/registration\nDuration: 1h
+DESCRIPTION:Speaker: Nicholas Timpson (Bristol Medical School)\, Tom Kuhn (MMPU Group ECM Brain)\, Isabella Graf (EMBL)\, Xiaoxi Feng (MMPU Group Microbiota Drug Metabolism and Cancer Therapy (MDMC))\, Roberto Montanari (MMPU Group Chronic Pain and Homeostasis (CPH))\, Binje Vick (MMPU Group Molecular Pediatric Oncology (MPO))\, Marlène Le Tertre (MMPU Group Iron Homeostasis (IH))\, Cornelius Pauli (MMPU Group Systems Biology of Cancer Treatment Response (SBCR))Aurelio Teleman (DKFZ)\nVenue: UKHD\, INF 410\, Lecture Hall\nLink: mailto:info@mmpu.de\nDuration: 4h
 DTEND:20261015T150000Z
-LOCATION:Online
-DTSTART:20261015T140000Z
-SUMMARY:EMBL Webinar: Advanced search and protein analysis tools in UniProt
-UID:73511867-d85d-4e3c-b340-1ddbb4cf6d8d@7351.org
-URL:https://embl-org.zoom.us/webinar/register/WN_me-VyxDPTPy3wti5yKWCdw#/registration
+LOCATION:UKHD\, INF 410\, Lecture Hall
+DTSTART:20261015T110000Z
+SUMMARY:Public MMPU Research Day Coordinated use of life course and population-based data: Opportunities for complex health outcomes\; Characterizing the ECM in Glioma: From Normal Brain to Tumor\; Collective sensing and decision-making\; Gut Microbiota-Derived Indole Metabolites Enhance the Antineoplastic Effect of Multi-Kinase Inhibitors in Colorectal Cancer\; The brainless escape from heat of Hydra\; Applying patient derived xenograft models to uncover novel therapeutic targets in acute myeloid leukemia\; Iron-driven pancreatic failure: a lysosomal story\; Epitranscriptomic patterns determine metastasis risk in lung adenocarcinoma
+UID:0a89d917-85bb-4ba8-8109-66445ec3b708@0a89.org
+URL:mailto:info@mmpu.de
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Francesca Borghi (University of Milan)\nVenue: IMSEAM (INF225)\, 01.314\nDuration: 1h
-DTEND:20261002T120000Z
-LOCATION:IMSEAM (INF225)\, 01.314
-DTSTART:20261002T110000Z
-SUMMARY:FI EMS Colloquium: Engineering the interface between self-assembled materials and self-organizing systems
-UID:0b03c8bc-dbdc-46f2-9505-4ee68f27f8c0@0b03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Albert Ros (Barcelona Institute for Global Health)\nVenue: Online\nLink: https://embl-org.zoom.us/webinar/register/WN_TxPseWqtTRSHWylCB8wKCA#/registration\nDuration: 1h
-DTEND:20261007T100000Z
-LOCATION:Online
-DTSTART:20261007T090000Z
-SUMMARY:EMBL Webinar: Using AlphaFold protein models for structure-based virtual screening of chemical libraries
-UID:bb271f82-c0e6-4b74-8eee-90c033596505@bb27.org
-URL:https://embl-org.zoom.us/webinar/register/WN_TxPseWqtTRSHWylCB8wKCA#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Radhika Puttagunta (Clinic for Paraplegiology\, Heidelberg University Hospital)\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
-DTEND:20261028T130000Z
-LOCATION:SR25\, BZH (INF 328)
-DTSTART:20261028T120000Z
-SUMMARY:IZN Concepts Talk : Understanding of neuroregenerative mechanisms leading toward treatment of spinal cord injury
-UID:b9d3d8e0-d2af-4547-ae50-309b113f785c@b9d3.org
-URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Florian Hollfelder (University of Cambridge)\, Liisa van Vliet (University of Cambridge)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_CZtiwz7KTSShhROxDvHTAQ#/registration\nDuration: 1h 20m
-DTEND:20261030T122000Z
-LOCATION:online
-DTSTART:20261030T110000Z
-SUMMARY:EMBL Webinar: High-throughput microbial discovery: interfacing droplet microfluidics with metagenomics
-UID:690e4e5a-324c-43e5-bbef-47dc339ad767@690e.org
-URL:https://embl-org.zoom.us/webinar/register/WN_CZtiwz7KTSShhROxDvHTAQ#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Vibor Laketa (University Hospital Heidelberg)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
-DTEND:20261019T150000Z
-LOCATION:Large Seminar Room (SR41) at BioQuant
-DTSTART:20261019T120000Z
-SUMMARY:HiLight Microscopy Seminar Series: Concepts in microscopy
-UID:a2d859b6-2109-4c48-967a-46f0fce1fc9e@a2d8.org
-URL:https://www.sci.events/e_230/abcmicroscopy/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Leo Carlin (CRUK Scotland Insitute)\, Maximilian Reichert (School of Medicine & Health\, Technical University of Munich)\nVenue: K1/K2 Seminar Rooms\, DKFZ Communication Center (INF 280)\nDuration: 1h 30m
-DTEND:20261014T103000Z
-LOCATION:K1/K2 Seminar Rooms\, DKFZ Communication Center (INF 280)
-DTSTART:20261014T090000Z
-SUMMARY:BioMedX Lunch Talk Series: 4D regulation of myeloid cells in cancer\; From Tumor Cell States to Multicellular Ecosystems: Decoding Plasticity in Pancreatic Cancer
-UID:5d14b2d4-91fd-460d-aa10-39369d48d1a0@5d14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Edina Rosta (University College London)\nVenue: Studio Villa Bosch Schloss-Wolfsbrunnenweg 33\nLink: https://kta-email.zoom.us/meeting/register/E8URVYJBT_C5UZFH3WrT7w#/registration\nDuration: 1h
-DTEND:20261102T140000Z
-LOCATION:Studio Villa Bosch Schloss-Wolfsbrunnenweg 33
-DTSTART:20261102T130000Z
-SUMMARY:HITS-SIMPLAIX Joint Colloquium: From Correlation to Control: Causality-Guided Enhanced Sampling of Biomolecular Dynamics
-UID:f4f705dc-1782-4bff-8c7a-6f39397a77d3@f4f7.org
-URL:https://kta-email.zoom.us/meeting/register/E8URVYJBT_C5UZFH3WrT7w#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Stefan Diez (TU Dresden)\nVenue: BioQuant (INF267)\, SR041\nDuration: 1h
-DTEND:20261112T170000Z
-LOCATION:BioQuant (INF267)\, SR041
-DTSTART:20261112T160000Z
-SUMMARY:FI EMS Colloquium: TBA
-UID:d351423e-ea47-4cc7-a274-8fe7f616e5c5@d351.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Itai Yanai (NYU Grossman School of Medicine)\nVenue: DKFZ (main building)\, main auditorium\nDuration: 1h
-DTEND:20261001T120000Z
-LOCATION:DKFZ (main building)\, main auditorium
-DTSTART:20261001T110000Z
-SUMMARY:Distinguished Lecturer Seminar Series: TBA
-UID:99c8226b-1aad-46e3-8ba7-df238e41abef@99c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Razan Abbara (EMBL-EBI)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_CP9eYStjT_yJ4UY3aJY-Iw#/registration\nDuration: 1h
-DTEND:20261103T130000Z
-LOCATION:online
-DTSTART:20261103T120000Z
-SUMMARY:EMBL Webinar: From mutations to mechanisms: using AlphaFold 2 to decode gentamicin resistance
-UID:55700847-02b3-42c6-94d8-872566caca71@5570.org
-URL:https://embl-org.zoom.us/webinar/register/WN_CP9eYStjT_yJ4UY3aJY-Iw#/registration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Alessandro Ulivi (Universitätsklinikum Heidelberg)\, Severina Klaus (CIID)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
-DTEND:20261116T160000Z
-LOCATION:Large Seminar Room (SR41) at BioQuant
-DTSTART:20261116T130000Z
-SUMMARY:HiLight Microscopy Seminar Series: Image Analysis and Quantification
-UID:f3c785b8-bac6-4748-bbee-78968bb2ccde@f3c7.org
-URL:https://www.sci.events/e_230/abcmicroscopy/
+DESCRIPTION:Speaker: Elias Barriga (TU Dresden)\nVenue: INF 230\, 0.005\nDuration: 1h
+DTEND:20261022T140000Z
+LOCATION:INF 230\, 0.005
+DTSTART:20261022T130000Z
+SUMMARY:COS Seminar Series
+UID:cb3bd3fb-f7bc-41ae-821c-5590a1726b3b@cb3b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Rebekka Schneider (University Hospital Aachen)\nVenue: Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg\nDuration: 1h
@@ -464,24 +259,68 @@ DTEND:20261102T160000Z
 LOCATION:Lecture Hall (Hörsaal)\, INF 410\, University Hospital Heidelberg
 DTSTART:20261102T150000Z
 SUMMARY:CRC 1709 Series: TBA
-UID:beca6afb-2c25-4c95-a07a-e8aef74b482d@beca.org
+UID:8b66a020-6bdf-4d61-88bf-49a428c4dc3e@8b66.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Hiroaki Suga (University of Tokyo)\nVenue: MPI for Medical Research\, seminar Room A/B\nDuration: 1h
-DTEND:20261019T140000Z
-LOCATION:MPI for Medical Research\, seminar Room A/B
-DTSTART:20261019T130000Z
-SUMMARY:Rudolf Mößbauer Colloquium: Extensive genetic code reprogramming by the flexizyme technology and its therapeutic applications to peptides and biologics
-UID:94adfdad-3d21-4fdc-b71a-649a401d3275@94ad.org
+DESCRIPTION:Speaker: Prof. Cristina Paulino (BZH)\nVenue: INF 328 (BZH)\, SR25\nDuration: 1h
+DTEND:20261016T121500Z
+LOCATION:INF 328 (BZH)\, SR25
+DTSTART:20261016T111500Z
+SUMMARY:HDcryoEM lecture: Continuation on image formation and developments in single-particle cryo-EM
+UID:943ed653-c8a6-4683-aac9-f7f0434e0c70@943e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Ulrike Engel (Centre for Organismal Studies)\, Diego Pastene Maldonado (Medical Faculty Mannheim)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
-DTEND:20261102T160000Z
+DESCRIPTION:Speaker: Alessandro Ulivi (Universitätsklinikum Heidelberg)\, Christian Schmidt (DKFZ)\, Victor Pérez (Universitätsklinikum Heidelberg)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
+DTEND:20261123T160000Z
 LOCATION:Large Seminar Room (SR41) at BioQuant
-DTSTART:20261102T130000Z
-SUMMARY:HiLight Microscopy Seminar Series: Image acquisition
-UID:b0dca860-bcbd-45e4-a49a-90d59abb55a1@b0dc.org
+DTSTART:20261123T130000Z
+SUMMARY:HiLight Microscopy Seminar Series: Image Data Management
+UID:dc20d7aa-32c1-4bfd-8853-dbb4709e515f@dc20.org
 URL:https://www.sci.events/e_230/abcmicroscopy/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Quirin Krabichler (Central Institute of Mental Health)\, Diego Pastene Maldonado (Medical Faculty Mannheim)\nVenue: Large Seminar Room (SR41) at BioQuant\nLink: https://www.sci.events/e_230/abcmicroscopy/\nDuration: 3h
+DTEND:20261026T160000Z
+LOCATION:Large Seminar Room (SR41) at BioQuant
+DTSTART:20261026T130000Z
+SUMMARY:HiLight Microscopy Seminar Series: Microscopy Experiment Design and Sample Preparation
+UID:b8813a67-31d3-4278-b1d0-a04708f11e30@b881.org
+URL:https://www.sci.events/e_230/abcmicroscopy/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Nicolaus von Wiren (Leibniz Institute of Plant Genetics and Crop Plant Research)\nVenue: N4\nDuration: 1h
+DTEND:20261119T130000Z
+LOCATION:N4
+DTSTART:20261119T120000Z
+SUMMARY:GreenRobust Seminar Series
+UID:ff4ba940-c457-4856-91ad-bbfcb7c6ca48@ff4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Gun Antonia Nilsson Lock (EMBL-EBI)\, Pedro Raposo (EMBL-EBI)\nVenue: Online\nLink: https://embl-org.zoom.us/webinar/register/WN_me-VyxDPTPy3wti5yKWCdw#/registration\nDuration: 1h
+DTEND:20261015T150000Z
+LOCATION:Online
+DTSTART:20261015T140000Z
+SUMMARY:EMBL Webinar: Advanced search and protein analysis tools in UniProt
+UID:519e70b3-4602-4adb-8606-97cf7e74ba8f@519e.org
+URL:https://embl-org.zoom.us/webinar/register/WN_me-VyxDPTPy3wti5yKWCdw#/registration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Aurelio Teleman (DKFZ)\nVenue: online\nLink: https://indico.dkfz.de/event/1707/\nDuration: 1h
+DTEND:20261015T080000Z
+LOCATION:online
+DTSTART:20261015T070000Z
+SUMMARY:Progress in Cancer Research (PiCR) lectures: Cancer At The Intersection Of Metabolism And Signaling
+UID:622497ac-3b0a-415d-b19b-79a9fc578af6@6224.org
+URL:https://indico.dkfz.de/event/1707/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Natalie Machado (Beth Israel Deaconess Medical Center and Harvard Medical School) ​\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
+DTEND:20261104T130000Z
+LOCATION:SR25\, BZH (INF 328)
+DTSTART:20261104T120000Z
+SUMMARY:IZN Lecture: Brain circuits and central mechanisms underlying survival during immune and metabolic stress
+UID:36b665cb-5e0d-41a3-b69d-12207dec06a4@36b6.org
+URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: José Molina Mora (University of Costa Rica)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_revizeupRJq06_bHWb1Jzg#/registration\nDuration: 1h
@@ -489,16 +328,76 @@ DTEND:20261029T160000Z
 LOCATION:online
 DTSTART:20261029T150000Z
 SUMMARY:EMBL Webinar: From transcriptomics to structural modeling with AlphaFold: analysis of the central response to stress in bacteria using machine learning and structural bioinformatics
-UID:263bceea-5480-4a96-b5db-8338edb0a1fe@263b.org
+UID:2ce9c4aa-91df-47b0-860d-bda60c87ee2e@2ce9.org
 URL:https://embl-org.zoom.us/webinar/register/WN_revizeupRJq06_bHWb1Jzg#/registration
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Carmen Schäfer (Department of Basic Neurosciences\, University of Geneva)\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
-DTEND:20261118T130000Z
+DESCRIPTION:Speaker: Leonie Anton (University of Bern & EMBL)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_FwPC_-hGROmNC_HVdLyx5Q\nDuration: 1h
+DTEND:20261021T143000Z
+LOCATION:online
+DTSTART:20261021T133000Z
+SUMMARY:EMBL Webinar: Using in situ cryoET to investigate intracellular host-pathogen interactions
+UID:deed2f4c-3488-4e32-8e60-466f9bce9a2d@deed.org
+URL:https://embl-org.zoom.us/webinar/register/WN_FwPC_-hGROmNC_HVdLyx5Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Michael Lenhard (University of Potsdam)\nVenue: INF 230\, 0.005\nDuration: 1h
+DTEND:20261112T150000Z
+LOCATION:INF 230\, 0.005
+DTSTART:20261112T140000Z
+SUMMARY:COS Seminar Series
+UID:09f23583-12ef-4a8e-813d-28ddf497214a@09f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Pia Steinrücken (NORCE)\, Anita Santana-Sanchez (NORCE)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_uqm1dZAASkqr39wlI9y9Tw#/registration\nDuration: 1h 30m
+DTEND:20261106T123000Z
+LOCATION:online
+DTSTART:20261106T110000Z
+SUMMARY:EMBL Webinar: Designing sustainable systems: sustainability assessment of bio-based products and processes
+UID:9653d2d1-9ac5-4cb5-986b-fb36b333fa94@9653.org
+URL:https://embl-org.zoom.us/webinar/register/WN_uqm1dZAASkqr39wlI9y9Tw#/registration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Adam Lewandowski (UK Biobank)\, Fergus Imrie (OpenBind)\, Louis-Felix Nothias (Univ. Côte d’Azur\, CNRS)\, Roman Bushuiev (IOCB Prague)\, James McLaughlin (EMBL-EBI)\nVenue: Online or Dendron Seminar Suite\, EMBL-EBI Thornton Building\, Hinxton\, UK\nLink: https://app.smartsheet.eu/b/form/019fc819f16973d1a399b0e211398456\nDuration: 7h 30m
+DTEND:20261023T160000Z
+LOCATION:Online or Dendron Seminar Suite\, EMBL-EBI Thornton Building\, Hinxton\, UK
+DTSTART:20261023T083000Z
+SUMMARY:EMBL Seminar: MetaboLights and AIBIO-UK workshop
+UID:fbb68416-4608-4ecb-ac68-6e957d37f223@fbb6.org
+URL:https://app.smartsheet.eu/b/form/019fc819f16973d1a399b0e211398456
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Abbe Brown (University of Aberdeen)\, Samuel Chaffron (French National Centre for Scientific Research (CNRS))\, Paula Huber (CONICET)\nVenue: online\nLink: https://embl-org.zoom.us/webinar/register/WN_jupt0Jl7Rq6R134iQTQyqA#/registration\nDuration: 1h 30m
+DTEND:20261023T113000Z
+LOCATION:online
+DTSTART:20261023T100000Z
+SUMMARY:EMBL Webinar: Ocean function and value: marine ecosystem mapping and services
+UID:8ca84015-4cba-4118-a3d5-a7d0624df160@8ca8.org
+URL:https://embl-org.zoom.us/webinar/register/WN_jupt0Jl7Rq6R134iQTQyqA#/registration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Tatjana Tchumachenko (Institute for Experimental Epileptology and Cognition Research\, University of Bonn Medical Center)\nVenue: SR25\, BZH (INF 328)\nLink: https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success\nDuration: 1h
+DTEND:20261014T120000Z
 LOCATION:SR25\, BZH (INF 328)
-DTSTART:20261118T120000Z
-SUMMARY:IZN Lecture: From Cortex to Movement: Causal Circuit Mechanisms of Voluntary Action
-UID:bffaaeac-bd12-451b-a617-e23b9619bbca@bffa.org
+DTSTART:20261014T110000Z
+SUMMARY:IZN Lecture: Manifold dynamics during navigation
+UID:90940fc7-cfa3-4af5-96ad-0791a63b77db@9094.org
 URL:https://eu02web.zoom.us/j/7824861103?pwd=R0kyV2NlbzFKNEt4elVIaGhvUFNUUT09&omn=68172715134#success
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Hiroaki Suga (University of Tokyo)\nVenue: MPI for Medical Research\, seminar Room A/B\nDuration: 1h
+DTEND:20261019T140000Z
+LOCATION:MPI for Medical Research\, seminar Room A/B
+DTSTART:20261019T130000Z
+SUMMARY:Rudolf Mößbauer Colloquium: Extensive genetic code reprogramming by the flexizyme technology and its therapeutic applications to peptides and biologics
+UID:7b3925f8-eaa3-4537-a600-4ac6faf344e5@7b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Rene-Filip Jackstadt (DKFZ)\nVenue: DKFZ Lecture Hall\nDuration: 1h
+DTEND:20261026T160000Z
+LOCATION:DKFZ Lecture Hall
+DTSTART:20261026T150000Z
+SUMMARY:SCIENCE@DKFZ: Plasticity in therapy resistance and metastasis of colorectal cancer⁢
+UID:35479f09-28ea-4b87-8892-2130e40b1155@3547.org
 END:VEVENT
 END:VCALENDAR
